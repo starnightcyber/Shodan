@@ -22,15 +22,13 @@ Running this script is very ease, the following is the example.</br>
 
 ### Sample
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</br>
-please input search query : weblogic [query:weblogic]</br>              
-please input file name to save data : weblogic [file save]</br>    
+please input search query : weblogic            
+please input file name to save data : weblogic 
 Total results 1203 , pages : 13 </br>
 page 1 ... left: 12 time: 30s </br>
 page 2 ... left: 11 time: 53s </br>
 page 3 ... left: 10 time: 1m:15s </br>
 page 4 ... left: 9 time: 1m:58s </br>
-. . .
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</br>
-This script will try to get all data(query:weblogic) that Shodan returns and saves reult to file(weblogic), surely consumes more 
-query credits. If you just want to test it, please check variable num.</br>
+This script will try to get all data(query:weblogic) that Shodan returns and saves reult to file(weblogic), surely consumes more query credits. If you just want to test it, please check variable num.</br>
 这个脚本会尝试从Shodan获取所有的数据(根据你的查询)，当然也就会消耗更多的query credits. 可以自己改变一下脚本中的num变量即可。
