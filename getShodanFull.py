@@ -13,7 +13,7 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
 
-# Configuration
+# Configuration, you need to provide your own API KEY to make it work
 SHODAN_API_KEY = "YOUR_API_KEY"
 api = shodan.Shodan(SHODAN_API_KEY)
 
