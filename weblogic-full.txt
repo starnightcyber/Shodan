@@ -1,0 +1,1098 @@
+202.70.88.131 | 9002 | tcp | [] | [] | Nepal | Kathmandu | 85.3167 | 27.7167
+41.32.79.244 | 9002 | tcp | [u'host-41.32.79.244.tedata.net'] | [u'tedata.net'] | Egypt | Nasr City | 31.3 | 30.0667
+106.37.164.149 | 443 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+114.251.203.84 | 2083 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+27.147.153.213 | 9002 | tcp | [] | [] | Bangladesh | Dhaka | 90.4086 | 23.7231
+60.172.141.203 | 8001 | tcp | [] | [] | China | Hefei | 117.2808 | 31.8639
+62.13.0.122 | 80 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+59.37.55.142 | 9001 | tcp | [] | [] | China | Guangzhou | 113.25 | 23.1167
+197.159.142.234 | 9002 | tcp | [] | [] | Ghana | None | -2.0 | 8.0
+41.73.229.10 | 9002 | tcp | [] | [] | Nigeria | None | 8.0 | 10.0
+210.65.76.27 | 8080 | tcp | [u'210-65-76-27.HINET-IP.hinet.net'] | [u'hinet.net'] | Taiwan | None | 121.0 | 23.5
+217.160.32.177 | 443 | tcp | [u'scc-gmbh.biz'] | [u'scc-gmbh.biz'] | Germany | None | 9.491 | 51.2993
+210.241.238.244 | 9001 | tcp | [u'210-241-238-244.HINET-IP.hinet.net'] | [u'hinet.net'] | Taiwan | None | 121.0 | 23.5
+62.13.0.103 | 443 | tcp | [u'ws.nordea.com'] | [u'nordea.com'] | Sweden | None | 18.056 | 59.3247
+136.247.52.237 | 443 | tcp | [u'pci-hsc.utoledo.edu'] | [u'utoledo.edu'] | United States | Toledo | -83.6044 | 41.6733
+197.220.244.102 | 9002 | tcp | [] | [] | Zambia | Livingstone | 25.8667 | -17.85
+114.251.203.84 | 8081 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+188.10.153.243 | 9001 | tcp | [u'host243-153-static.10-188-b.business.telecomitalia.it'] | [u'telecomitalia.it'] | Italy | Venice | 12.3177 | 45.3477
+220.161.4.150 | 9001 | tcp | [] | [] | China | Fuzhou | 119.3061 | 26.0614
+182.93.77.108 | 9002 | tcp | [] | [] | Nepal | Kathmandu | 85.3167 | 27.7167
+52.76.48.122 | 443 | tcp | [u'ec2-52-76-48-122.ap-southeast-1.compute.amazonaws.com'] | [u'amazonaws.com'] | Singapore | Singapore | 103.8565 | 1.2855
+206.128.159.140 | 80 | tcp | [] | [] | United States | Chesterfield | -90.5334 | 38.65
+107.151.2.34 | 9001 | tcp | [] | [] | United States | Piscataway | -74.4637 | 40.5516
+193.234.187.57 | 80 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+122.224.97.101 | 9000 | tcp | [] | [] | China | Hangzhou | 120.1614 | 30.2936
+180.151.102.91 | 9001 | tcp | [u'180.151.102.91.reverse.spectranet.in'] | [u'spectranet.in'] | India | New Delhi | 77.2 | 28.6
+77.245.9.190 | 9001 | tcp | [u'mail.joemirates.com'] | [u'joemirates.com'] | Jordan | None | 36.0 | 31.0
+62.13.0.146 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+221.224.88.155 | 444 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+195.145.108.50 | 443 | tcp | [] | [] | Germany | Straubing | 12.5797 | 48.8835
+193.234.187.96 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+123.29.69.76 | 80 | tcp | [] | [] | Vietnam | Hanoi | 105.85 | 21.0333
+183.90.160.23 | 9001 | tcp | [] | [] | Vietnam | Hanoi | 105.85 | 21.0333
+210.179.230.92 | 443 | tcp | [] | [] | Korea, Republic of | None | 126.9741 | 37.5112
+221.224.88.155 | 2087 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+150.214.20.124 | 9001 | tcp | [u'oasea.ugr.es'] | [u'ugr.es'] | Spain | Sevilla | -5.9761 | 37.3824
+155.210.11.122 | 9002 | tcp | [u'uxxi2.unizar.es'] | [u'unizar.es'] | Spain | Zaragoza | -0.8849 | 41.6453
+34.195.213.118 | 80 | tcp | [u'ec2-34-195-213-118.compute-1.amazonaws.com'] | [u'amazonaws.com'] | United States | Ashburn | -77.4728 | 39.0481
+41.202.231.170 | 9001 | tcp | [u'mail2.roofings.co.ug'] | [u'roofings.co.ug'] | Uganda | None | 32.0 | 1.0
+193.255.52.181 | 9001 | tcp | [u'reverseproxy.pau.edu.tr'] | [u'pau.edu.tr'] | Turkey | Pamukkale | 29.1202 | 37.9158
+199.231.34.150 | 443 | tcp | [] | [] | United States | Shelton | -73.1354 | 41.3158
+59.50.84.222 | 8181 | tcp | [] | [] | China | Haikou | 110.3417 | 20.0458
+221.224.88.155 | 28017 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+217.172.120.20 | 9002 | tcp | [] | [] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+114.251.203.84 | 8880 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+41.139.2.27 | 9001 | tcp | [u'mail3.ranamotors.com'] | [u'ranamotors.com'] | Ghana | None | -2.0 | 8.0
+195.171.138.135 | 443 | tcp | [] | [] | United Kingdom | Melbourn | 0.0167 | 52.0833
+2.50.43.136 | 9001 | tcp | [u'bba308746.alshamil.net.ae'] | [u'alshamil.net.ae'] | United Arab Emirates | Dubai | 55.3081 | 25.2639
+203.9.33.5 | 443 | tcp | [u'staging.tt.com.au'] | [u'tt.com.au'] | Australia | None | 143.2104 | -33.494
+221.224.88.155 | 8098 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+193.234.187.71 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+41.218.83.178 | 9001 | tcp | [] | [] | Zambia | None | 30.0 | -15.0
+111.205.94.45 | 443 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+59.56.185.89 | 9000 | tcp | [] | [] | China | Fuzhou | 119.3061 | 26.0614
+197.220.244.102 | 9001 | tcp | [] | [] | Zambia | Livingstone | 25.8667 | -17.85
+194.165.128.58 | 9001 | tcp | [u'mail.ataqadom.com.jo'] | [u'ataqadom.com.jo'] | Jordan | Amman | 35.9333 | 31.95
+221.224.88.155 | 8000 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+78.93.179.88 | 9001 | tcp | [] | [] | Saudi Arabia | None | 45.0 | 25.0
+78.93.180.183 | 9001 | tcp | [] | [] | Saudi Arabia | None | 45.0 | 25.0
+58.65.194.3 | 9002 | tcp | [] | [] | Pakistan | None | 70.0 | 30.0
+81.19.243.104 | 9001 | tcp | [u'kbmetal.softbase.dk'] | [u'softbase.dk'] | Denmark | None | 12.0564 | 55.7123
+91.98.88.13 | 3790 | tcp | [u'91.98.88.13.pol.ir'] | [u'pol.ir'] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+193.234.187.58 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+128.199.105.24 | 443 | tcp | [u'mesinrusak.com'] | [u'mesinrusak.com'] | Singapore | Singapore | 103.8565 | 1.2855
+193.234.187.117 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+41.38.45.85 | 9002 | tcp | [u'host-41.38.45.85.tedata.net'] | [u'tedata.net'] | Egypt | Cairo | 31.2859 | 30.0771
+185.51.206.162 | 9001 | tcp | [] | [] | Saudi Arabia | Jeddah | 39.2192 | 21.5169
+193.234.187.59 | 80 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+43.229.211.40 | 9001 | tcp | [] | [] | Bangladesh | Dhaka | 90.4086 | 23.7231
+87.202.209.53 | 9001 | tcp | [u'py910.softecon.gr'] | [u'softecon.gr'] | Greece | None | 23.7167 | 37.9667
+212.105.107.107 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+221.224.88.155 | 9944 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+202.109.79.219 | 8001 | tcp | [] | [] | China | Shanghai | 121.3997 | 31.0456
+61.144.226.82 | 9001 | tcp | [] | [] | China | Shenzhen | 114.1333 | 22.5333
+193.234.187.113 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+193.234.187.12 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+201.3.77.214 | 9001 | tcp | [] | [] | Brazil | Curitiba | -49.2667 | -25.426
+195.171.138.190 | 443 | tcp | [u'www.cnsonline.uk'] | [u'cnsonline.uk'] | United Kingdom | Melbourn | 0.0167 | 52.0833
+121.41.106.166 | 9001 | tcp | [] | [] | China | Hangzhou | 120.1614 | 30.2936
+221.224.88.155 | 1741 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+124.219.80.5 | 80 | tcp | [u'124-219-80-5.vdslpro.static.apol.com.tw'] | [u'apol.com.tw'] | Taiwan | Miaoli | 120.8219 | 24.5589
+124.9.7.5 | 80 | tcp | [u'imap.powerchip.com'] | [u'powerchip.com'] | Taiwan | Taipei | 121.4966 | 25.0418
+195.141.62.14 | 7071 | tcp | [u'195-141-62-14.advances.ch'] | [u'advances.ch'] | Switzerland | Zurich | 8.6044 | 47.3786
+154.66.218.186 | 9001 | tcp | [] | [] | Uganda | None | 32.0 | 1.0
+197.248.226.98 | 9002 | tcp | [u'197-248-226-98.safaricombusiness.co.ke'] | [u'safaricombusiness.co.ke'] | Kenya | Athi River | 36.9833 | -1.45
+144.76.107.105 | 9002 | tcp | [u'static.105.107.76.144.clients.your-server.de'] | [u'your-server.de'] | Germany | None | 9.491 | 51.2993
+219.147.3.200 | 80 | tcp | [] | [] | China | Qingdao | 120.3719 | 36.0986
+193.234.187.84 | 80 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+101.230.218.14 | 9001 | tcp | [] | [] | China | Shanghai | 121.3997 | 31.0456
+221.224.88.155 | 8086 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+221.224.88.155 | 1311 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+72.32.103.4 | 80 | tcp | [] | [] | United States | San Antonio | -98.3987 | 29.4889
+37.99.141.238 | 9001 | tcp | [u'37.99.141-238.static.go.com.sa'] | [u'go.com.sa'] | Saudi Arabia | None | 45.0 | 25.0
+144.92.74.166 | 9002 | tcp | [u'ofr01.doit.wisc.edu'] | [u'wisc.edu'] | United States | Madison | -89.4012 | 43.0731
+62.215.45.90 | 9002 | tcp | [] | [] | Kuwait | Kuwait | 47.9783 | 29.3697
+62.13.0.88 | 443 | tcp | [u'kontoutdrag.plusgirot.se'] | [u'plusgirot.se'] | Sweden | None | 18.056 | 59.3247
+1.202.242.118 | 55553 | tcp | [u'118.242.202.1.static.bjtelecom.net'] | [u'bjtelecom.net'] | China | Beijing | 116.3883 | 39.9289
+180.153.145.140 | 8001 | tcp | [] | [] | China | Shanghai | 121.3997 | 31.0456
+61.135.105.169 | 8081 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+61.129.43.53 | 443 | tcp | [] | [] | China | None | 113.7266 | 34.7725
+207.162.164.153 | 8009 | tcp | [u'fttu-164-153.vci.net'] | [u'vci.net'] | United States | Ledbetter | -88.4807 | 37.0522
+213.92.77.130 | 80 | tcp | [] | [] | Italy | None | 12.1097 | 43.1479
+221.224.88.155 | 3689 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+221.224.88.155 | 49153 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+92.253.124.202 | 9002 | tcp | [] | [] | Jordan | Irbid | 35.85 | 32.5556
+114.251.203.84 | 16993 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+64.140.229.170 | 80 | tcp | [u'WPIS-64-140-229-170.tnt3.modem.worldpath.net'] | [u'worldpath.net'] | United States | Dover | -70.91 | 43.1871
+183.90.160.40 | 9002 | tcp | [] | [] | Vietnam | Hanoi | 105.85 | 21.0333
+1.202.242.118 | 8889 | tcp | [u'118.242.202.1.static.bjtelecom.net'] | [u'bjtelecom.net'] | China | Beijing | 116.3883 | 39.9289
+198.208.92.74 | 4443 | tcp | [] | [] | United States | Sterling Heights | -83.0516 | 42.6096
+54.242.188.87 | 80 | tcp | [u'ec2-54-242-188-87.compute-1.amazonaws.com'] | [u'amazonaws.com'] | United States | Ashburn | -77.4728 | 39.0481
+60.190.195.52 | 8001 | tcp | [] | [] | China | Hangzhou | 120.1614 | 30.2936
+221.224.88.155 | 8140 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+83.96.53.157 | 9001 | tcp | [] | [] | Kuwait | Kuwait | 47.9783 | 29.3697
+24.120.17.160 | 443 | tcp | [u'wsip-24-120-17-160.lv.lv.cox.net'] | [u'cox.net'] | United States | North Las Vegas | -115.1175 | 36.1989
+61.236.216.157 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+87.201.142.139 | 443 | tcp | [] | [] | United Arab Emirates | None | 54.0 | 24.0
+193.219.96.221 | 80 | tcp | [u'cli221.nvia.eu'] | [u'nvia.eu'] | Spain | None | -3.684 | 40.4172
+221.10.30.126 | 8081 | tcp | [] | [] | China | Chengdu | 104.0667 | 30.6667
+54.164.6.220 | 80 | tcp | [u'ec2-54-164-6-220.compute-1.amazonaws.com'] | [u'amazonaws.com'] | United States | Ashburn | -77.4728 | 39.0481
+157.83.142.128 | 443 | tcp | [] | [] | United Kingdom | London | -0.0955 | 51.5092
+219.232.105.149 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+196.28.57.81 | 80 | tcp | [u'196-28-57-81.prtc.net'] | [u'prtc.net'] | Puerto Rico | Arecibo | -66.7113 | 18.3994
+203.77.177.138 | 9001 | tcp | [] | [] | India | Mumbai | 72.8258 | 18.975
+114.251.203.84 | 49153 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+110.79.8.166 | 9001 | tcp | [] | [] | Hong Kong | Kwai Chung | 114.1333 | 22.35
+69.1.179.170 | 8000 | tcp | [] | [] | United States | Lafayette | -92.0198 | 30.2241
+202.84.17.184 | 80 | tcp | [] | [] | China | None | 113.7266 | 34.7725
+197.157.17.114 | 9002 | tcp | [u'mail.rrm.co.ug'] | [u'rrm.co.ug'] | Uganda | None | 32.0 | 1.0
+139.129.219.73 | 80 | tcp | [] | [] | China | Hangzhou | 120.1614 | 30.2936
+125.46.57.82 | 9002 | tcp | [u'hn.kd.ny.adsl'] | [u'adsl.'] | China | Zhengzhou | 113.5325 | 34.6836
+103.36.127.174 | 9001 | tcp | [] | [] | India | Panipat | 76.9681 | 29.3889
+196.218.19.50 | 9002 | tcp | [u'host-196.218.19.50-static.tedata.net'] | [u'tedata.net'] | Egypt | Cairo | 31.2859 | 30.0771
+37.216.238.210 | 9002 | tcp | [] | [] | Saudi Arabia | Riyadh | 46.7152 | 24.6537
+202.99.20.133 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+129.191.21.66 | 9000 | tcp | [u'oc-129-191-21-66.compute.oraclecloud.com'] | [u'oraclecloud.com'] | United States | Redwood City | -122.2471 | 37.5331
+202.70.88.131 | 9001 | tcp | [] | [] | Nepal | Kathmandu | 85.3167 | 27.7167
+213.6.90.100 | 9001 | tcp | [] | [] | Palestinian Territory | Nablus | 35.2544 | 32.2211
+82.213.48.173 | 9002 | tcp | [] | [] | Palestinian Territory | None | 35.25 | 32.0
+221.224.88.155 | 2082 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+210.179.230.85 | 443 | tcp | [] | [] | Korea, Republic of | None | 126.9741 | 37.5112
+157.83.142.87 | 443 | tcp | [] | [] | United Kingdom | London | -0.0955 | 51.5092
+210.211.99.130 | 8081 | tcp | [] | [] | Vietnam | Ho Chi Minh City | 106.6438 | 10.8142
+87.202.209.58 | 9001 | tcp | [u'host10.e1apps.ondsl.gr'] | [u'ondsl.gr'] | Greece | None | 23.7167 | 37.9667
+117.40.156.184 | 8009 | tcp | [] | [] | China | Nanchang | 115.9333 | 28.55
+62.13.0.125 | 80 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+118.179.208.51 | 9002 | tcp | [] | [] | Bangladesh | Dhaka | 90.4086 | 23.7231
+125.209.110.245 | 9001 | tcp | [u'125-209-110-245.multi.net.pk'] | [u'multi.net.pk'] | Pakistan | None | 70.0 | 30.0
+91.184.98.66 | 80 | tcp | [u'mms.ge.beeline.net'] | [u'beeline.net'] | Georgia | Tbilisi | 44.7908 | 41.725
+211.98.109.34 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+58.213.100.39 | 9001 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+217.174.44.142 | 443 | tcp | [] | [] | Turkey | Istanbul | 28.9684 | 41.0214
+202.100.220.217 | 9001 | tcp | [] | [] | China | Haikou | 110.3417 | 20.0458
+212.107.127.69 | 9002 | tcp | [] | [] | Saudi Arabia | None | 45.0 | 25.0
+103.29.187.16 | 80 | tcp | [] | [] | Indonesia | None | 106.8286 | -6.175
+58.213.100.37 | 9001 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+119.146.145.57 | 10000 | tcp | [] | [] | China | Guangzhou | 113.25 | 23.1167
+218.242.36.219 | 8001 | tcp | [u'reserve.cableplus.com.cn'] | [u'cableplus.com.cn'] | China | Shanghai | 121.3997 | 31.0456
+201.155.194.193 | 8181 | tcp | [u'dsl-201-155-194-193-sta.prod-empresarial.com.mx'] | [u'prod-empresarial.com.mx'] | Mexico | Mexico | -99.1386 | 19.4342
+210.65.76.28 | 8080 | tcp | [u'210-65-76-28.HINET-IP.hinet.net'] | [u'hinet.net'] | Taiwan | None | 121.0 | 23.5
+87.101.231.59 | 9001 | tcp | [] | [] | Saudi Arabia | None | 45.0 | 25.0
+62.138.2.149 | 9001 | tcp | [u'astra4145.startdedicated.com'] | [u'startdedicated.com'] | Germany | None | 9.491 | 51.2993
+61.222.231.242 | 80 | tcp | [u'61-222-231-242.HINET-IP.hinet.net'] | [u'hinet.net'] | Taiwan | None | 121.0 | 23.5
+131.161.253.218 | 9002 | tcp | [u'mail.dlsmotors.com.py'] | [u'dlsmotors.com.py'] | Paraguay | Villeta | -57.6 | -25.4667
+94.56.73.92 | 9002 | tcp | [] | [] | United Arab Emirates | None | 54.0 | 24.0
+87.202.209.53 | 9002 | tcp | [u'py910.softecon.gr'] | [u'softecon.gr'] | Greece | None | 23.7167 | 37.9667
+66.76.203.145 | 443 | tcp | [u'66-76-203-145.suddenlink.net'] | [u'suddenlink.net'] | United States | None | -90.6666 | 38.5783
+202.99.217.11 | 8081 | tcp | [u'11.217.99.202.internet.sx.cn'] | [u'internet.sx.cn'] | China | Taiyuan | 112.4708 | 37.7269
+60.190.86.243 | 80 | tcp | [] | [] | China | Wenzhou | 120.6668 | 27.9994
+107.0.115.112 | 9001 | tcp | [u'107-0-115-112-ip-static.hfc.comcastbusiness.net'] | [u'comcastbusiness.net'] | United States | Chambersburg | -77.6611 | 39.9376
+139.129.219.73 | 443 | tcp | [] | [] | China | Hangzhou | 120.1614 | 30.2936
+218.94.143.62 | 9001 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+209.235.125.194 | 80 | tcp | [u'delta1classwell.com'] | [u'delta1classwell.com'] | United States | Andover | -71.1655 | 42.6489
+65.74.187.238 | 80 | tcp | [u'am.instill.com'] | [u'instill.com'] | United States | Overland Park | -94.7052 | 38.8998
+210.51.57.59 | 8081 | tcp | [] | [] | China | Shanghai | 121.3997 | 31.0456
+52.74.140.57 | 9001 | tcp | [u'ec2-52-74-140-57.ap-southeast-1.compute.amazonaws.com'] | [u'amazonaws.com'] | Singapore | Singapore | 103.8565 | 1.2855
+99.129.52.39 | 443 | tcp | [] | [] | United States | San Ramon | -121.978 | 37.7799
+218.25.251.55 | 80 | tcp | [] | [] | China | Shenyang | 123.4328 | 41.7922
+197.155.75.218 | 9002 | tcp | [u'197.155.75.218.liquidtelecom.net'] | [u'liquidtelecom.net'] | Mauritius | None | 57.55 | -20.2833
+183.221.117.54 | 9001 | tcp | [] | [] | China | Chengdu | 104.0667 | 30.6667
+182.75.188.107 | 9002 | tcp | [u'nsg-static-107.188.75.182-airtel.com'] | [u'182-airtel.com'] | India | None | 77.0 | 20.0
+1.202.242.118 | 8089 | tcp | [u'118.242.202.1.static.bjtelecom.net'] | [u'bjtelecom.net'] | China | Beijing | 116.3883 | 39.9289
+216.249.132.131 | 9001 | tcp | [] | [] | United States | Louisville | -85.7338 | 38.2148
+218.25.251.57 | 80 | tcp | [] | [] | China | Shenyang | 123.4328 | 41.7922
+174.142.179.169 | 8081 | tcp | [] | [] | Canada | Montréal | -73.5501 | 45.4594
+88.249.15.83 | 9001 | tcp | [u'88.249.15.83.static.ttnet.com.tr'] | [u'ttnet.com.tr'] | Turkey | None | 28.9948 | 41.0214
+198.208.92.74 | 443 | tcp | [] | [] | United States | Sterling Heights | -83.0516 | 42.6096
+200.10.9.87 | 9443 | tcp | [] | [] | Chile | Santiago | -70.6682 | -33.4625
+194.165.150.141 | 9002 | tcp | [] | [] | Jordan | None | 36.0 | 31.0
+180.153.27.8 | 9001 | tcp | [] | [] | China | Shanghai | 121.3997 | 31.0456
+60.190.193.122 | 8001 | tcp | [] | [] | China | Hangzhou | 120.1614 | 30.2936
+114.251.203.84 | 8086 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+193.234.187.90 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+210.65.76.27 | 80 | tcp | [u'210-65-76-27.HINET-IP.hinet.net'] | [u'hinet.net'] | Taiwan | None | 121.0 | 23.5
+193.231.107.68 | 443 | tcp | [] | [] | Romania | Bucharest | 26.1 | 44.4333
+157.253.237.73 | 443 | tcp | [] | [] | Colombia | Bogotá | -74.0628 | 4.6492
+197.248.121.62 | 9002 | tcp | [u'197-248-121-62.safaricombusiness.co.ke'] | [u'safaricombusiness.co.ke'] | Kenya | None | 38.0 | 1.0
+79.134.157.10 | 9001 | tcp | [u'gw10-157.jcsfiberlink.net'] | [u'jcsfiberlink.net'] | Jordan | Amman | 35.9333 | 31.95
+41.217.234.10 | 9001 | tcp | [u'41-217-234-10.tangerine.co.ug'] | [u'tangerine.co.ug'] | Uganda | None | 32.0 | 1.0
+212.118.113.147 | 9002 | tcp | [] | [] | Saudi Arabia | Riyadh | 46.7152 | 24.6537
+193.234.191.131 | 443 | tcp | [u'gfs11.nb.se'] | [u'nb.se'] | Sweden | None | 18.056 | 59.3247
+83.110.237.183 | 9001 | tcp | [u'bba428681.alshamil.net.ae'] | [u'alshamil.net.ae'] | United Arab Emirates | Dubai | 55.3081 | 25.2639
+114.251.203.84 | 4443 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+27.223.68.146 | 8081 | tcp | [] | [] | China | Qingdao | 120.3719 | 36.0986
+185.134.96.246 | 9002 | tcp | [] | [] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+218.58.70.173 | 9001 | tcp | [] | [] | China | Jinan | 116.9972 | 36.6683
+204.193.74.135 | 443 | tcp | [u'ePAEligibilitySvcQA.magellanhealth.com'] | [u'magellanhealth.com'] | United States | Saint Louis | -90.367 | 38.7012
+203.144.223.100 | 9001 | tcp | [u'203-144-223-100.static.asianet.co.th'] | [u'asianet.co.th'] | Thailand | Nonthaburi | 100.5134 | 13.8622
+41.215.125.9 | 9001 | tcp | [u'41.215.125.9.accesskenya.com'] | [u'accesskenya.com'] | Kenya | None | 38.0 | 1.0
+124.95.131.25 | 80 | tcp | [] | [] | China | Shenyang | 123.4328 | 41.7922
+193.234.187.66 | 80 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+203.144.223.109 | 9001 | tcp | [u'203-144-223-109.static.asianet.co.th'] | [u'asianet.co.th'] | Thailand | Nonthaburi | 100.5134 | 13.8622
+91.98.88.13 | 2087 | tcp | [u'91.98.88.13.pol.ir'] | [u'pol.ir'] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+128.199.105.24 | 80 | tcp | [u'mesinrusak.com'] | [u'mesinrusak.com'] | Singapore | Singapore | 103.8565 | 1.2855
+114.251.203.84 | 3780 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+182.74.55.243 | 9001 | tcp | [] | [] | India | None | 77.0 | 20.0
+65.74.187.237 | 443 | tcp | [u'instillconnect.instill.com'] | [u'instill.com'] | United States | Overland Park | -94.7052 | 38.8998
+123.252.194.234 | 9002 | tcp | [u'mail.dynamicprestress.com'] | [u'dynamicprestress.com'] | India | None | 77.0 | 20.0
+212.105.107.101 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+80.15.168.102 | 80 | tcp | [u'LMontsouris-656-1-60-102.w80-15.abo.wanadoo.fr'] | [u'wanadoo.fr'] | France | None | 2.3387 | 48.8582
+216.240.192.21 | 443 | tcp | [] | [] | Canada | Streetsville | -79.7611 | 43.5924
+221.224.88.155 | 7548 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+220.85.46.49 | 8009 | tcp | [] | [] | Korea, Republic of | Seoul | 126.9743 | 37.5111
+75.78.224.253 | 7071 | tcp | [] | [] | United States | Omaha | -96.1939 | 41.2085
+147.174.2.16 | 9002 | tcp | [u'psrv2.selu.edu'] | [u'selu.edu'] | United States | Hammond | -90.4804 | 30.514
+1.202.242.118 | 7548 | tcp | [u'118.242.202.1.static.bjtelecom.net'] | [u'bjtelecom.net'] | China | Beijing | 116.3883 | 39.9289
+221.224.88.155 | 9443 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+60.172.198.16 | 8889 | tcp | [] | [] | China | Hefei | 117.2808 | 31.8639
+62.249.37.24 | 443 | tcp | [] | [] | Italy | Milan | 9.2 | 45.4667
+221.149.41.53 | 5001 | tcp | [] | [] | Korea, Republic of | Seoul | 126.9743 | 37.5111
+116.62.59.215 | 80 | tcp | [] | [] | China | Hangzhou | 120.1614 | 30.2936
+203.242.40.27 | 444 | tcp | [] | [] | Korea, Republic of | None | 126.9741 | 37.5112
+221.224.88.155 | 3128 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+221.224.88.155 | 13579 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+193.39.157.18 | 443 | tcp | [u'citydev-portal.edinburgh.gov.uk'] | [u'edinburgh.gov.uk'] | United Kingdom | Edinburgh | -3.2 | 55.95
+195.55.46.94 | 8089 | tcp | [u'smstest.caser.es'] | [u'caser.es'] | Spain | Madrid | -3.6838 | 40.4167
+197.157.217.233 | 9001 | tcp | [] | [] | Nigeria | None | 8.0 | 10.0
+193.76.212.40 | 80 | tcp | [u'netintelligence.infostrada.it'] | [u'infostrada.it'] | Italy | None | 12.1097 | 43.1479
+204.89.139.149 | 443 | tcp | [] | [] | United States | Hopkins | -93.4064 | 44.9121
+210.51.48.121 | 9001 | tcp | [] | [] | China | Shanghai | 121.3997 | 31.0456
+204.89.139.142 | 443 | tcp | [u'expense.blackbox-vs.com'] | [u'blackbox-vs.com'] | United States | Hopkins | -93.4064 | 44.9121
+221.232.64.243 | 9001 | tcp | [u'243.64.232.221.broad.wh.hb.dynamic.163data.com.cn'] | [u'163data.com.cn'] | China | Wuhan | 114.2734 | 30.5801
+193.234.187.117 | 80 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+93.91.9.218 | 9001 | tcp | [u'static-93-91-9-218.tel.ru'] | [u'tel.ru'] | Russian Federation | Moscow | 37.6184 | 55.7485
+114.251.203.84 | 8181 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+62.177.145.15 | 443 | tcp | [] | [] | Netherlands | None | 4.8995 | 52.3824
+180.151.102.91 | 9002 | tcp | [u'180.151.102.91.reverse.spectranet.in'] | [u'spectranet.in'] | India | New Delhi | 77.2 | 28.6
+41.73.195.83 | 9002 | tcp | [] | [] | Tanzania, United Republic of | None | 39.291 | -6.8227
+201.144.11.229 | 9001 | tcp | [u'static.customer-201-144-11-229.uninet-ide.com.mx'] | [u'uninet-ide.com.mx'] | Mexico | None | -99.0111 | 19.4371
+201.144.48.168 | 9001 | tcp | [u'static.customer-201-144-48-168.uninet-ide.com.mx'] | [u'uninet-ide.com.mx'] | Mexico | Guadalajara | -103.2813 | 20.5962
+91.98.88.13 | 8554 | tcp | [u'91.98.88.13.pol.ir'] | [u'pol.ir'] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+112.74.13.246 | 9001 | tcp | [] | [] | China | Hangzhou | 120.1614 | 30.2936
+197.232.13.122 | 9002 | tcp | [] | [] | Kenya | None | 38.0 | 1.0
+197.50.125.188 | 9001 | tcp | [u'host-197.50.125.188.tedata.net'] | [u'tedata.net'] | Egypt | Nasr City | 31.3 | 30.0667
+117.52.164.132 | 8889 | tcp | [] | [] | Korea, Republic of | None | 126.9741 | 37.5112
+193.234.191.68 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+118.89.34.198 | 8089 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+113.193.159.20 | 9001 | tcp | [] | [] | India | Chennai | 80.2833 | 13.0833
+185.96.70.49 | 9002 | tcp | [] | [] | Jordan | None | 36.0 | 31.0
+193.22.245.49 | 80 | tcp | [] | [] | United Kingdom | Kidderminster | -2.25 | 52.3833
+211.233.40.194 | 8001 | tcp | [] | [] | Korea, Republic of | None | 126.9741 | 37.5112
+219.234.140.135 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+54.87.205.151 | 80 | tcp | [u'ec2-54-87-205-151.compute-1.amazonaws.com'] | [u'amazonaws.com'] | United States | Ashburn | -77.4728 | 39.0481
+219.147.3.201 | 10000 | tcp | [] | [] | China | Qingdao | 120.3719 | 36.0986
+114.251.203.84 | 9000 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+210.242.50.73 | 9001 | tcp | [u'abat.com.tw'] | [u'abat.com.tw'] | Taiwan | None | 121.0 | 23.5
+202.59.166.175 | 443 | tcp | [u'IP-166-175.nap.net.id'] | [u'nap.net.id'] | Indonesia | Jakarta | 106.8294 | -6.1744
+41.191.98.242 | 9001 | tcp | [] | [] | Ghana | None | -2.0 | 8.0
+201.144.11.228 | 9001 | tcp | [u'static.customer-201-144-11-228.uninet-ide.com.mx'] | [u'uninet-ide.com.mx'] | Mexico | None | -99.0111 | 19.4371
+221.224.88.155 | 8443 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+154.66.218.186 | 9002 | tcp | [] | [] | Uganda | None | 32.0 | 1.0
+72.32.190.58 | 80 | tcp | [u'www1.riva.com'] | [u'riva.com'] | United States | San Antonio | -98.3987 | 29.4889
+223.30.182.211 | 443 | tcp | [] | [] | India | Mumbai | 72.8258 | 18.975
+221.224.88.155 | 8880 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+208.64.154.57 | 8443 | tcp | [] | [] | United States | Sterling | -77.4755 | 38.9881
+41.139.7.11 | 9002 | tcp | [] | [] | Ghana | None | -2.0 | 8.0
+157.83.142.160 | 443 | tcp | [] | [] | United Kingdom | London | -0.0955 | 51.5092
+210.179.230.87 | 443 | tcp | [] | [] | Korea, Republic of | None | 126.9741 | 37.5112
+83.96.52.136 | 9002 | tcp | [] | [] | Kuwait | Kuwait | 47.9783 | 29.3697
+219.147.3.201 | 8098 | tcp | [] | [] | China | Qingdao | 120.3719 | 36.0986
+202.99.207.125 | 80 | tcp | [] | [] | China | Taiyuan | 112.4708 | 37.7269
+91.98.88.13 | 311 | tcp | [u'91.98.88.13.pol.ir'] | [u'pol.ir'] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+139.59.59.115 | 80 | tcp | [] | [] | India | Bangalore | 77.5833 | 12.9833
+222.122.211.132 | 443 | tcp | [] | [] | Korea, Republic of | None | 126.9741 | 37.5112
+174.142.179.168 | 8081 | tcp | [] | [] | Canada | Montréal | -73.5501 | 45.4594
+211.138.236.21 | 80 | tcp | [] | [] | China | Changsha | 113.1136 | 28.1792
+91.98.88.13 | 8834 | tcp | [u'91.98.88.13.pol.ir'] | [u'pol.ir'] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+60.247.27.173 | 9001 | tcp | [u'173.27.247.60.static.bjtelecom.net'] | [u'bjtelecom.net'] | China | Beijing | 116.3883 | 39.9289
+117.27.151.205 | 9001 | tcp | [] | [] | China | Fuzhou | 119.3061 | 26.0614
+193.234.187.22 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+61.152.219.215 | 8081 | tcp | [] | [] | China | Shanghai | 121.3997 | 31.0456
+114.251.203.84 | 9002 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+94.56.73.92 | 9001 | tcp | [] | [] | United Arab Emirates | None | 54.0 | 24.0
+213.158.168.22 | 9002 | tcp | [u'host-213.158.168.22.tedata.net'] | [u'tedata.net'] | Egypt | None | 31.223 | 30.0355
+61.222.58.249 | 9001 | tcp | [u'61-222-58-249.HINET-IP.hinet.net'] | [u'hinet.net'] | Taiwan | None | 121.0 | 23.5
+59.55.140.12 | 9001 | tcp | [] | [] | China | Nanchang | 115.9333 | 28.55
+118.201.207.132 | 80 | tcp | [] | [] | Singapore | Singapore | 103.8565 | 1.2855
+77.246.36.65 | 443 | tcp | [] | [] | United Kingdom | London | -0.0955 | 51.5092
+124.172.232.89 | 80 | tcp | [] | [] | China | Guangzhou | 113.25 | 23.1167
+193.234.191.117 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+94.97.110.243 | 9001 | tcp | [] | [] | Saudi Arabia | Riyadh | 46.7152 | 24.6537
+212.105.107.10 | 80 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+1.202.242.118 | 8139 | tcp | [u'118.242.202.1.static.bjtelecom.net'] | [u'bjtelecom.net'] | China | Beijing | 116.3883 | 39.9289
+212.105.107.10 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+115.29.175.37 | 8009 | tcp | [] | [] | China | Hangzhou | 120.1614 | 30.2936
+60.29.64.42 | 8139 | tcp | [u'no-data'] | [u'no-data.'] | China | Tianjin | 117.1767 | 39.1422
+218.213.98.242 | 9001 | tcp | [] | [] | Hong Kong | Kwai Chung | 114.1333 | 22.35
+194.113.225.96 | 9001 | tcp | [] | [] | Germany | None | 9.491 | 51.2993
+178.251.199.151 | 443 | tcp | [u'amc.axisintoict.nl'] | [u'axisintoict.nl'] | Netherlands | None | 4.8995 | 52.3824
+41.223.6.132 | 9001 | tcp | [u'host-6-132.vodacom.co.tz'] | [u'vodacom.co.tz'] | Tanzania, United Republic of | None | 39.291 | -6.8227
+41.219.190.5 | 9001 | tcp | [] | [] | Nigeria | Lagos | 3.3958 | 6.4531
+196.28.57.81 | 443 | tcp | [u'196-28-57-81.prtc.net'] | [u'prtc.net'] | Puerto Rico | Arecibo | -66.7113 | 18.3994
+195.145.108.106 | 443 | tcp | [] | [] | Germany | Straubing | 12.5797 | 48.8835
+193.219.96.212 | 80 | tcp | [u'cli212.nvia.eu'] | [u'nvia.eu'] | Spain | None | -3.684 | 40.4172
+54.175.71.234 | 443 | tcp | [u'ec2-54-175-71-234.compute-1.amazonaws.com'] | [u'amazonaws.com'] | United States | Ashburn | -77.4728 | 39.0481
+80.110.39.133 | 9001 | tcp | [u'80-110-39-133.static.upcbusiness.at'] | [u'upcbusiness.at'] | Austria | Vienna | 16.4463 | 48.164
+202.0.110.15 | 9001 | tcp | [] | [] | Pakistan | None | 70.0 | 30.0
+41.178.89.245 | 137 | udp | [] | [] | Egypt | Cairo | 31.2859 | 30.0771
+114.251.203.84 | 9943 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+78.6.83.48 | 443 | tcp | [u'78-6-83-48-static.albacom.net'] | [u'albacom.net'] | Italy | None | 12.1097 | 43.1479
+1.202.242.118 | 2087 | tcp | [u'118.242.202.1.static.bjtelecom.net'] | [u'bjtelecom.net'] | China | Beijing | 116.3883 | 39.9289
+173.212.239.52 | 9001 | tcp | [u'vmi128487.contaboserver.net'] | [u'contaboserver.net'] | Germany | None | 9.491 | 51.2993
+41.215.253.125 | 9001 | tcp | [] | [] | Congo, The Democratic Republic of the | Kinshasa | 15.3 | -4.3
+13.91.58.161 | 80 | tcp | [] | [] | United States | San Jose | -121.8914 | 37.3388
+197.254.123.86 | 9002 | tcp | [u'197.254.123.86.acesskenya.net'] | [u'acesskenya.net'] | Kenya | None | 38.0 | 1.0
+117.55.242.60 | 9002 | tcp | [] | [] | India | Ghaziabad | 77.4333 | 28.6667
+209.234.184.238 | 8181 | tcp | [] | [] | United States | San Ramon | -121.9904 | 37.7806
+62.13.0.86 | 443 | tcp | [u'ratestest.nordea.fi'] | [u'nordea.fi'] | Sweden | None | 18.056 | 59.3247
+193.234.187.58 | 80 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+77.46.142.40 | 9002 | tcp | [u'mail.darex.rs'] | [u'darex.rs'] | Serbia | None | 21.0 | 44.0
+180.153.145.145 | 8001 | tcp | [] | [] | China | Shanghai | 121.3997 | 31.0456
+197.232.37.15 | 9001 | tcp | [] | [] | Kenya | None | 38.0 | 1.0
+195.145.108.58 | 443 | tcp | [] | [] | Germany | Straubing | 12.5797 | 48.8835
+202.108.145.187 | 8081 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+27.28.45.132 | 9000 | tcp | [] | [] | China | Wuhan | 114.2734 | 30.5801
+104.192.181.12 | 443 | tcp | [] | [] | United States | None | -97.822 | 37.751
+54.255.160.209 | 443 | tcp | [u'ec2-54-255-160-209.ap-southeast-1.compute.amazonaws.com'] | [u'amazonaws.com'] | Singapore | Singapore | 103.8565 | 1.2855
+221.208.25.118 | 8009 | tcp | [] | [] | China | Harbin | 126.65 | 45.75
+82.204.185.38 | 9002 | tcp | [] | [] | Russian Federation | None | 37.6068 | 55.7386
+221.224.88.155 | 16992 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+60.250.130.129 | 9001 | tcp | [u'60-250-130-129.HINET-IP.hinet.net'] | [u'hinet.net'] | Taiwan | None | 121.0 | 23.5
+200.23.149.53 | 9002 | tcp | [u'prod005ws02.tecvirtual.mx'] | [u'tecvirtual.mx'] | Mexico | Monterrey | -100.3167 | 25.6667
+83.111.193.119 | 9002 | tcp | [] | [] | United Arab Emirates | None | 54.0 | 24.0
+62.13.0.132 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+211.22.159.14 | 443 | tcp | [u'211-22-159-14.HINET-IP.hinet.net'] | [u'hinet.net'] | Taiwan | Taichung | 120.6814 | 24.1433
+41.215.86.218 | 9001 | tcp | [u'41.215.86.218.accesskenya.com'] | [u'accesskenya.com'] | Kenya | Nairobi | 36.8167 | -1.2833
+120.35.5.44 | 9001 | tcp | [] | [] | China | Fuzhou | 119.3061 | 26.0614
+106.38.74.166 | 9000 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+5.42.225.118 | 9002 | tcp | [] | [] | Saudi Arabia | None | 45.0 | 25.0
+221.224.88.155 | 8554 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+223.72.163.11 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+41.215.253.125 | 9002 | tcp | [] | [] | Congo, The Democratic Republic of the | Kinshasa | 15.3 | -4.3
+74.208.181.189 | 443 | tcp | [u's195028773.onlinehome.us'] | [u'onlinehome.us'] | United States | Wayne | -75.4083 | 40.0548
+202.59.89.246 | 9001 | tcp | [u'202-59-89-246.nexlinx.net.pk'] | [u'nexlinx.net.pk'] | Pakistan | Faisalabad | 73.0843 | 31.4215
+114.141.178.32 | 8081 | tcp | [] | [] | China | Shanghai | 121.3997 | 31.0456
+14.102.79.86 | 9001 | tcp | [] | [] | India | New Delhi | 77.2 | 28.6
+221.224.88.155 | 9000 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+140.120.3.31 | 9002 | tcp | [] | [] | Taiwan | None | 121.0 | 23.5
+46.152.36.137 | 9001 | tcp | [] | [] | Saudi Arabia | Jeddah | 39.2192 | 21.5169
+116.62.117.196 | 8080 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+109.166.88.83 | 9001 | tcp | [] | [] | Saudi Arabia | Makkah | 39.8261 | 21.4267
+209.235.125.162 | 80 | tcp | [u'stg.delta.classwell.com'] | [u'classwell.com'] | United States | Andover | -71.1655 | 42.6489
+222.247.33.3 | 8080 | tcp | [] | [] | China | Changsha | 113.1136 | 28.1792
+190.217.54.218 | 9002 | tcp | [] | [] | Colombia | Bogotá | -74.0628 | 4.6492
+199.101.115.135 | 443 | tcp | [] | [] | United States | San Mateo | -122.2687 | 37.555
+197.44.224.220 | 9001 | tcp | [u'host-197.44.224.220-static.tedata.net'] | [u'tedata.net'] | Egypt | None | 31.223 | 30.0355
+118.201.207.137 | 80 | tcp | [] | [] | Singapore | Singapore | 103.8565 | 1.2855
+218.58.70.174 | 8098 | tcp | [] | [] | China | Jinan | 116.9972 | 36.6683
+62.13.0.126 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+222.247.33.4 | 80 | tcp | [] | [] | China | Changsha | 113.1136 | 28.1792
+80.75.4.152 | 9001 | tcp | [] | [] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+117.239.87.113 | 9001 | tcp | [] | [] | India | New Delhi | 77.2 | 28.6
+197.248.121.62 | 9001 | tcp | [] | [] | Kenya | None | 38.0 | 1.0
+193.234.187.27 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+62.13.0.90 | 443 | tcp | [u'girovision.plusgirot.se'] | [u'plusgirot.se'] | Sweden | None | 18.056 | 59.3247
+218.213.98.246 | 9002 | tcp | [] | [] | Hong Kong | Kwai Chung | 114.1333 | 22.35
+201.3.77.206 | 9001 | tcp | [] | [] | Brazil | Curitiba | -49.2667 | -25.426
+110.45.199.212 | 443 | tcp | [] | [] | Korea, Republic of | None | 126.9741 | 37.5112
+197.232.21.162 | 9002 | tcp | [] | [] | Kenya | None | 38.0 | 1.0
+218.249.33.154 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+210.13.83.130 | 9001 | tcp | [] | [] | China | Shanghai | 121.3997 | 31.0456
+46.152.44.177 | 9001 | tcp | [] | [] | Saudi Arabia | Jeddah | 39.2192 | 21.5169
+195.29.217.195 | 9002 | tcp | [] | [] | Croatia | Zagreb | 16.0 | 45.8
+66.37.140.115 | 80 | tcp | [u'www.pcdga.com'] | [u'pcdga.com'] | United States | Denver | -104.9271 | 39.6717
+193.234.187.45 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+189.254.19.8 | 80 | tcp | [u'customer-189-254-19-8-sta.uninet-ide.com.mx'] | [u'uninet-ide.com.mx'] | Mexico | Chalco De Díaz Covarrubias | -98.9 | 19.2667
+193.188.73.120 | 9002 | tcp | [] | [] | Jordan | None | 36.0 | 31.0
+122.165.13.209 | 9002 | tcp | [u'abts-tn-static-209.13.165.122.airtelbroadband.in'] | [u'airtelbroadband.in'] | India | Chennai | 80.2833 | 13.0833
+136.247.52.127 | 443 | tcp | [u'nscctestpci-hsc.utoledo.edu'] | [u'utoledo.edu'] | United States | Toledo | -83.6044 | 41.6733
+114.143.214.210 | 9001 | tcp | [] | [] | India | None | 77.0 | 20.0
+180.153.27.7 | 9001 | tcp | [] | [] | China | Shanghai | 121.3997 | 31.0456
+183.90.160.44 | 9001 | tcp | [] | [] | Vietnam | Hanoi | 105.85 | 21.0333
+201.117.211.149 | 9001 | tcp | [u'wan-d32-0809-0204.uninet-ide.com.mx'] | [u'uninet-ide.com.mx'] | Mexico | None | -99.0111 | 19.4371
+69.11.16.148 | 9001 | tcp | [u'69-11-16-148.regn.static.sasknet.sk.ca'] | [u'sasknet.sk.ca'] | Canada | Regina | -104.6774 | 50.419
+1.202.242.118 | 2376 | tcp | [u'118.242.202.1.static.bjtelecom.net'] | [u'bjtelecom.net'] | China | Beijing | 116.3883 | 39.9289
+195.145.108.46 | 443 | tcp | [] | [] | Germany | Straubing | 12.5797 | 48.8835
+183.63.19.230 | 8081 | tcp | [] | [] | China | Guangzhou | 113.25 | 23.1167
+41.215.17.3 | 9001 | tcp | [u'41.215.17.3.accesskenya.com'] | [u'accesskenya.com'] | Kenya | None | 38.0 | 1.0
+209.235.125.162 | 443 | tcp | [u'stg.delta.classwell.com'] | [u'classwell.com'] | United States | Andover | -71.1655 | 42.6489
+202.218.127.112 | 443 | tcp | [] | [] | Japan | None | 139.69 | 35.69
+218.144.67.42 | 9001 | tcp | [] | [] | Korea, Republic of | Seoul | 126.9743 | 37.5111
+109.107.236.54 | 9001 | tcp | [] | [] | Jordan | Amman | 35.9333 | 31.95
+58.56.128.41 | 8098 | tcp | [] | [] | China | Qingdao | 120.3719 | 36.0986
+62.13.0.71 | 80 | tcp | [u'yrittajat.nordea.fi'] | [u'nordea.fi'] | Sweden | None | 18.056 | 59.3247
+72.32.103.5 | 80 | tcp | [] | [] | United States | San Antonio | -98.3987 | 29.4889
+210.65.76.28 | 443 | tcp | [u'210-65-76-28.HINET-IP.hinet.net'] | [u'hinet.net'] | Taiwan | None | 121.0 | 23.5
+202.218.127.50 | 80 | tcp | [u'www2.it-ex.com'] | [u'it-ex.com'] | Japan | None | 139.69 | 35.69
+223.31.240.225 | 443 | tcp | [] | [] | India | None | 77.0 | 20.0
+222.240.31.33 | 9001 | tcp | [] | [] | China | Changsha | 113.1136 | 28.1792
+202.133.97.137 | 9001 | tcp | [u'static-202-133-97-137.mykris.net'] | [u'mykris.net'] | Malaysia | Selangor | 101.25 | 3.35
+115.248.66.153 | 9001 | tcp | [] | [] | India | Bangalore | 77.5833 | 12.9833
+193.234.187.124 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+72.237.254.126 | 9000 | tcp | [u'soe-dr-app.ncstech.com'] | [u'ncstech.com'] | United States | None | -97.822 | 37.751
+114.251.203.84 | 8554 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+203.249.160.5 | 8009 | tcp | [] | [] | Korea, Republic of | Seoul | 126.9743 | 37.5111
+221.193.216.158 | 8081 | tcp | [] | [] | China | Hebei | 115.275 | 39.8897
+117.158.75.75 | 9002 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+222.92.231.179 | 5001 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+197.254.123.198 | 9001 | tcp | [u'mail.nabico.co.ke'] | [u'nabico.co.ke'] | Kenya | None | 38.0 | 1.0
+41.60.1.46 | 9002 | tcp | [u'mail.necor.co.zm'] | [u'necor.co.zm'] | Zambia | Lusaka | 28.2833 | -15.4167
+195.145.108.240 | 443 | tcp | [] | [] | Germany | Straubing | 12.5797 | 48.8835
+183.129.208.248 | 9001 | tcp | [] | [] | China | None | 113.1136 | 28.1792
+201.144.11.235 | 9001 | tcp | [u'static.customer-201-144-11-235.uninet-ide.com.mx'] | [u'uninet-ide.com.mx'] | Mexico | None | -99.0111 | 19.4371
+220.128.56.75 | 80 | tcp | [u'75-56-128-220.TWGATE-IP.twgate.net'] | [u'twgate.net'] | Taiwan | None | 121.0 | 23.5
+41.41.135.5 | 137 | udp | [u'host-41.41.135.5.tedata.net'] | [u'tedata.net'] | Egypt | Aswan | 32.907 | 24.0934
+193.188.73.120 | 9001 | tcp | [] | [] | Jordan | None | 36.0 | 31.0
+54.169.216.169 | 9001 | tcp | [u'ec2-54-169-216-169.ap-southeast-1.compute.amazonaws.com'] | [u'amazonaws.com'] | Singapore | Singapore | 103.8565 | 1.2855
+58.26.249.11 | 8081 | tcp | [] | [] | Malaysia | Kuala Lumpur | 101.7 | 3.1667
+62.13.0.65 | 443 | tcp | [u'www.firstcard.fi'] | [u'firstcard.fi'] | Sweden | None | 18.056 | 59.3247
+125.209.108.228 | 9001 | tcp | [u'125-209-108-228.multi.net.pk'] | [u'multi.net.pk'] | Pakistan | None | 70.0 | 30.0
+91.98.88.13 | 5986 | tcp | [u'91.98.88.13.pol.ir'] | [u'pol.ir'] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+210.51.165.73 | 8081 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+125.16.63.57 | 80 | tcp | [] | [] | India | New Delhi | 77.2 | 28.6
+37.104.137.253 | 9001 | tcp | [] | [] | Saudi Arabia | Riyadh | 46.7152 | 24.6537
+218.161.49.186 | 9002 | tcp | [u'218-161-49-186.HINET-IP.hinet.net'] | [u'hinet.net'] | Taiwan | Hsinchu | 120.9714 | 24.8047
+91.98.128.84 | 9002 | tcp | [u'91.98.128.84.pol.ir'] | [u'pol.ir'] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+111.11.181.38 | 9001 | tcp | [] | [] | China | Taiyuan | 112.4708 | 37.7269
+58.26.243.66 | 8081 | tcp | [] | [] | Malaysia | Bintulu | 113.0901 | 3.1906
+203.242.40.26 | 444 | tcp | [] | [] | Korea, Republic of | None | 126.9741 | 37.5112
+41.41.141.234 | 9002 | tcp | [u'host-41.41.141.234.tedata.net'] | [u'tedata.net'] | Egypt | Aswan | 32.907 | 24.0934
+112.95.133.11 | 9001 | tcp | [] | [] | China | Guangzhou | 113.25 | 23.1167
+113.196.138.236 | 9001 | tcp | [u'113.196.138.236.ll.static.sparqnet.net'] | [u'sparqnet.net'] | Taiwan | Taipei | 121.4966 | 25.0418
+62.13.0.154 | 80 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+114.251.203.84 | 554 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+81.213.152.30 | 9001 | tcp | [u'81.213.152.30.dynamic.ttnet.com.tr'] | [u'ttnet.com.tr'] | Turkey | Kayseri | 35.8791 | 38.6323
+200.23.57.25 | 9002 | tcp | [u'portal.itmerida.mx'] | [u'itmerida.mx'] | Mexico | Mérida | -89.6167 | 20.9667
+58.56.128.79 | 443 | tcp | [] | [] | China | Qingdao | 120.3719 | 36.0986
+114.251.203.84 | 7548 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+62.13.0.71 | 443 | tcp | [u'yrittajat.nordea.fi'] | [u'nordea.fi'] | Sweden | None | 18.056 | 59.3247
+61.144.225.36 | 9002 | tcp | [] | [] | China | Shenzhen | 114.1333 | 22.5333
+193.234.191.70 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+217.21.117.222 | 9001 | tcp | [] | [] | Kenya | Nairobi | 36.8167 | -1.2833
+211.98.90.46 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+183.140.79.149 | 9001 | tcp | [] | [] | China | Jiaxing | 120.75 | 30.7522
+2.91.169.159 | 9001 | tcp | [] | [] | Saudi Arabia | Riyadh | 46.7152 | 24.6537
+209.235.125.197 | 80 | tcp | [u'images.classwell.com'] | [u'classwell.com'] | United States | Andover | -71.1655 | 42.6489
+218.17.83.64 | 9001 | tcp | [u'64.83.17.218.broad.sz.gd.dynamic.163data.com.cn'] | [u'163data.com.cn'] | China | Shenzhen | 114.1333 | 22.5333
+117.27.151.204 | 9001 | tcp | [] | [] | China | Fuzhou | 119.3061 | 26.0614
+87.202.209.52 | 9001 | tcp | [u'dv910.softecon.gr'] | [u'softecon.gr'] | Greece | None | 23.7167 | 37.9667
+62.13.0.123 | 80 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+106.37.164.149 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+188.10.153.243 | 9002 | tcp | [u'host243-153-static.10-188-b.business.telecomitalia.it'] | [u'telecomitalia.it'] | Italy | Venice | 12.3177 | 45.3477
+212.105.107.13 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+123.7.87.43 | 8009 | tcp | [u'hn.kd.ny.adsl'] | [u'adsl.'] | China | Zhengzhou | 113.5325 | 34.6836
+195.154.181.22 | 25 | tcp | [u'mail.weblogic.gr'] | [u'weblogic.gr'] | France | None | 2.3387 | 48.8582
+62.13.0.69 | 443 | tcp | [u'businesscard-online.nordea.fi'] | [u'nordea.fi'] | Sweden | None | 18.056 | 59.3247
+207.223.114.67 | 80 | tcp | [u'pims.insightcbre.com'] | [u'insightcbre.com'] | United States | Montgomery | -86.2254 | 32.2605
+212.118.8.117 | 9001 | tcp | [u'212.118.8.117.ua.batelco.jo'] | [u'batelco.jo'] | Jordan | None | 36.0 | 31.0
+203.228.216.241 | 443 | tcp | [] | [] | Korea, Republic of | None | 126.9741 | 37.5112
+88.250.14.191 | 9001 | tcp | [u'88.250.14.191.static.ttnet.com.tr'] | [u'ttnet.com.tr'] | Turkey | Mersin | 34.6442 | 36.7328
+186.4.141.28 | 9001 | tcp | [u'host-186-4-141-28.netlife.ec'] | [u'netlife.ec'] | Ecuador | Quito | -78.5 | -0.2167
+185.51.206.162 | 9002 | tcp | [] | [] | Saudi Arabia | Jeddah | 39.2192 | 21.5169
+1.202.242.118 | 55443 | tcp | [u'118.242.202.1.static.bjtelecom.net'] | [u'bjtelecom.net'] | China | Beijing | 116.3883 | 39.9289
+122.160.21.13 | 9002 | tcp | [u'abts-north-static-013.21.160.122.airtelbroadband.in'] | [u'airtelbroadband.in'] | India | New Delhi | 77.2 | 28.6
+202.91.17.73 | 443 | tcp | [] | [] | Thailand | Bangkok | 100.4889 | 13.7594
+144.140.107.71 | 80 | tcp | [] | [] | Australia | Brunswick East | 144.9724 | -37.7725
+202.70.88.141 | 9001 | tcp | [] | [] | Nepal | Kathmandu | 85.3167 | 27.7167
+193.234.187.45 | 80 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+61.0.190.41 | 9000 | tcp | [] | [] | India | Margão | 73.95 | 15.3
+223.220.254.206 | 8009 | tcp | [] | [] | China | Xining | 101.7667 | 36.6167
+65.74.187.237 | 80 | tcp | [u'instillconnect.instill.com'] | [u'instill.com'] | United States | Overland Park | -94.7052 | 38.8998
+218.108.31.2 | 9002 | tcp | [] | [] | China | None | 120.1614 | 30.2936
+58.20.53.62 | 9001 | tcp | [] | [] | China | Changsha | 113.1136 | 28.1792
+1.229.253.141 | 9001 | tcp | [] | [] | Korea, Republic of | Seoul | 126.9743 | 37.5111
+113.207.120.143 | 9001 | tcp | [] | [] | China | Chongqing | 106.5528 | 29.5628
+46.152.114.50 | 9001 | tcp | [] | [] | Saudi Arabia | None | 45.0 | 25.0
+211.98.121.8 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+85.154.247.61 | 9002 | tcp | [u'i61.ip-85.154.247.omantel.net.om'] | [u'omantel.net.om'] | Oman | None | 57.0 | 21.0
+41.210.128.147 | 9002 | tcp | [u'h93.n1.ips.mtn.co.ug'] | [u'mtn.co.ug'] | Uganda | None | 32.0 | 1.0
+193.234.187.56 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+110.93.216.180 | 9001 | tcp | [u'tw216-static180.tw1.com'] | [u'tw1.com'] | Pakistan | Karachi | 67.0822 | 24.9056
+83.96.53.156 | 9001 | tcp | [] | [] | Kuwait | Kuwait | 47.9783 | 29.3697
+78.93.253.64 | 9001 | tcp | [] | [] | Saudi Arabia | Riyadh | 46.7152 | 24.6537
+174.112.218.178 | 9002 | tcp | [u'CPEbc4dfbf6ad33-CMbc4dfbf6ad30.cpe.net.cable.rogers.com'] | [u'rogers.com'] | Canada | Mississauga | -79.7202 | 43.5637
+118.112.187.15 | 9001 | tcp | [] | [] | China | Chengdu | 104.0667 | 30.6667
+72.32.103.6 | 80 | tcp | [] | [] | United States | San Antonio | -98.3987 | 29.4889
+196.218.119.131 | 9002 | tcp | [u'host-196.218.119.131-static.tedata.net'] | [u'tedata.net'] | Egypt | Tanta | 31.0019 | 30.7885
+175.19.208.77 | 9000 | tcp | [u'77.208.19.175.adsl-pool.jlccptt.net.cn'] | [u'jlccptt.net.cn'] | China | Changchun | 125.3228 | 43.88
+220.128.157.253 | 9001 | tcp | [u'220-128-157-253.HINET-IP.hinet.net'] | [u'hinet.net'] | Taiwan | None | 121.0 | 23.5
+211.151.124.106 | 8081 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+144.140.107.79 | 80 | tcp | [] | [] | Australia | Brunswick East | 144.9724 | -37.7725
+118.190.120.131 | 80 | tcp | [] | [] | China | Hangzhou | 120.1614 | 30.2936
+202.108.100.199 | 8009 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+95.9.242.219 | 9001 | tcp | [u'95.9.242.219.dynamic.ttnet.com.tr'] | [u'ttnet.com.tr'] | Turkey | None | 28.9948 | 41.0214
+114.251.203.84 | 3001 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+62.13.0.80 | 443 | tcp | [u'groupaccount.nordea.com'] | [u'nordea.com'] | Sweden | None | 18.056 | 59.3247
+5.189.137.246 | 9002 | tcp | [u'm2705.contabo.host'] | [u'contabo.host'] | Germany | None | 9.491 | 51.2993
+91.98.88.13 | 5001 | tcp | [u'91.98.88.13.pol.ir'] | [u'pol.ir'] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+62.13.0.112 | 443 | tcp | [u'streamer.test.nordea.fi'] | [u'nordea.fi'] | Sweden | None | 18.056 | 59.3247
+89.201.195.170 | 9002 | tcp | [u'89-201-195-170.dsl.optinet.hr'] | [u'optinet.hr'] | Croatia | Zagreb | 16.0 | 45.8
+221.224.88.155 | 1234 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+198.204.176.13 | 443 | tcp | [u'dc1-bdt.efanniemae.com'] | [u'efanniemae.com'] | United States | Arlington | -77.113 | 38.8747
+41.215.17.3 | 9002 | tcp | [u'41.215.17.3.accesskenya.com'] | [u'accesskenya.com'] | Kenya | None | 38.0 | 1.0
+62.13.0.108 | 443 | tcp | [u'crdorder.nordea.com'] | [u'nordea.com'] | Sweden | None | 18.056 | 59.3247
+60.172.141.205 | 9001 | tcp | [] | [] | China | Hefei | 117.2808 | 31.8639
+221.224.88.155 | 5001 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+41.217.238.74 | 9001 | tcp | [u'41-217-238-74.tangerine.co.ug'] | [u'tangerine.co.ug'] | Uganda | None | 32.0 | 1.0
+68.233.48.84 | 80 | tcp | [] | [] | United States | Monroe | -83.4457 | 41.9505
+202.204.172.232 | 443 | tcp | [u'cas.uibe.edu.cn'] | [u'uibe.edu.cn'] | China | Beijing | 116.3883 | 39.9289
+202.99.20.133 | 443 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+221.224.88.155 | 88 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+221.224.88.155 | 7547 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+62.138.2.149 | 9002 | tcp | [u'astra4145.startdedicated.com'] | [u'startdedicated.com'] | Germany | None | 9.491 | 51.2993
+43.229.211.40 | 9002 | tcp | [] | [] | Bangladesh | Dhaka | 90.4086 | 23.7231
+120.199.11.146 | 10000 | tcp | [] | [] | China | None | 113.7266 | 34.7725
+114.251.203.84 | 311 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+91.98.88.13 | 8089 | tcp | [u'91.98.88.13.pol.ir'] | [u'pol.ir'] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+210.179.230.91 | 443 | tcp | [] | [] | Korea, Republic of | None | 126.9741 | 37.5112
+195.171.138.134 | 443 | tcp | [] | [] | United Kingdom | Melbourn | 0.0167 | 52.0833
+209.235.125.166 | 80 | tcp | [u'stg.images.classwell.com'] | [u'classwell.com'] | United States | Andover | -71.1655 | 42.6489
+54.152.24.15 | 80 | tcp | [u'ec2-54-152-24-15.compute-1.amazonaws.com'] | [u'amazonaws.com'] | United States | Ashburn | -77.4728 | 39.0481
+68.233.48.85 | 80 | tcp | [] | [] | United States | Monroe | -83.4457 | 41.9505
+118.185.125.203 | 9002 | tcp | [] | [] | India | None | 77.0 | 20.0
+193.234.187.76 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+197.251.218.44 | 9002 | tcp | [] | [] | Ghana | Accra | -0.2167 | 5.55
+196.202.69.141 | 9001 | tcp | [u'host-196.202.69.141-static.tedata.net'] | [u'tedata.net'] | Egypt | Cairo | 31.2859 | 30.0771
+183.90.160.40 | 9001 | tcp | [] | [] | Vietnam | Hanoi | 105.85 | 21.0333
+41.73.195.84 | 9001 | tcp | [] | [] | Tanzania, United Republic of | None | 39.291 | -6.8227
+62.13.0.87 | 443 | tcp | [u'eplusgiro.plusgirot.se'] | [u'plusgirot.se'] | Sweden | None | 18.056 | 59.3247
+218.66.16.217 | 7071 | tcp | [] | [] | China | Fuzhou | 119.3061 | 26.0614
+221.224.88.155 | 5986 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+34.192.3.237 | 80 | tcp | [u'ec2-34-192-3-237.compute-1.amazonaws.com'] | [u'amazonaws.com'] | United States | Ashburn | -77.4728 | 39.0481
+212.73.65.60 | 80 | tcp | [u'uslugi.beeline.am'] | [u'beeline.am'] | Armenia | None | 45.0 | 40.0
+211.137.204.210 | 8009 | tcp | [] | [] | China | None | 120.3719 | 36.0986
+218.25.251.56 | 80 | tcp | [] | [] | China | Shenyang | 123.4328 | 41.7922
+197.254.123.86 | 9001 | tcp | [u'197.254.123.86.acesskenya.net'] | [u'acesskenya.net'] | Kenya | None | 38.0 | 1.0
+41.215.125.9 | 9002 | tcp | [u'41.215.125.9.accesskenya.com'] | [u'accesskenya.com'] | Kenya | None | 38.0 | 1.0
+81.80.21.182 | 80 | tcp | [] | [] | France | None | 2.3387 | 48.8582
+24.120.17.140 | 443 | tcp | [u'wsip-24-120-17-140.lv.lv.cox.net'] | [u'cox.net'] | United States | North Las Vegas | -115.1175 | 36.1989
+77.245.9.190 | 9002 | tcp | [u'mail.joemirates.com'] | [u'joemirates.com'] | Jordan | None | 36.0 | 31.0
+182.72.126.26 | 443 | tcp | [u'nsg-static-026.126.72.182.airtel.in'] | [u'airtel.in'] | India | None | 77.0 | 20.0
+210.216.217.184 | 80 | tcp | [] | [] | Korea, Republic of | Daegu | 128.5911 | 35.8703
+193.234.187.111 | 80 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+222.92.244.35 | 9001 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+195.171.138.192 | 443 | tcp | [] | [] | United Kingdom | Melbourn | 0.0167 | 52.0833
+180.169.84.45 | 8009 | tcp | [] | [] | China | Shanghai | 121.3997 | 31.0456
+201.144.11.226 | 9001 | tcp | [u'static.customer-201-144-11-226.uninet-ide.com.mx'] | [u'uninet-ide.com.mx'] | Mexico | None | -99.0111 | 19.4371
+37.99.141.238 | 9002 | tcp | [u'37.99.141-238.static.go.com.sa'] | [u'go.com.sa'] | Saudi Arabia | None | 45.0 | 25.0
+46.152.114.50 | 9002 | tcp | [] | [] | Saudi Arabia | None | 45.0 | 25.0
+124.74.46.118 | 5001 | tcp | [] | [] | China | Shanghai | 121.3997 | 31.0456
+119.226.77.3 | 9002 | tcp | [] | [] | India | None | 77.0 | 20.0
+221.224.88.155 | 8334 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+212.72.25.148 | 9001 | tcp | [u'testsrv.dalmaenergy.com'] | [u'dalmaenergy.com'] | Oman | None | 57.0 | 21.0
+52.86.30.213 | 443 | tcp | [u'ec2-52-86-30-213.compute-1.amazonaws.com'] | [u'amazonaws.com'] | United States | Ashburn | -77.4728 | 39.0481
+60.208.91.38 | 9001 | tcp | [] | [] | China | Jinan | 116.9972 | 36.6683
+61.186.154.238 | 9001 | tcp | [] | [] | China | Chongqing | 106.5528 | 29.5628
+52.86.30.213 | 80 | tcp | [u'ec2-52-86-30-213.compute-1.amazonaws.com'] | [u'amazonaws.com'] | United States | Ashburn | -77.4728 | 39.0481
+219.142.54.176 | 9002 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+197.220.114.46 | 9001 | tcp | [] | [] | Kenya | None | 38.0 | 1.0
+1.202.242.118 | 8880 | tcp | [u'118.242.202.1.static.bjtelecom.net'] | [u'bjtelecom.net'] | China | Beijing | 116.3883 | 39.9289
+221.224.88.155 | 2086 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+221.224.88.155 | 16993 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+42.236.89.38 | 9000 | tcp | [u'hn.kd.ny.adsl'] | [u'adsl.'] | China | Zhengzhou | 113.5325 | 34.6836
+62.13.0.64 | 80 | tcp | [u'www.firstcard.dk'] | [u'firstcard.dk'] | Sweden | None | 18.056 | 59.3247
+221.212.210.163 | 80 | tcp | [] | [] | China | Harbin | 126.65 | 45.75
+88.249.40.105 | 9001 | tcp | [u'88.249.40.105.static.ttnet.com.tr'] | [u'ttnet.com.tr'] | Turkey | Kayseri | 35.4853 | 38.7322
+211.20.70.194 | 9002 | tcp | [u'211-20-70-194.HINET-IP.hinet.net'] | [u'hinet.net'] | Taiwan | None | 121.0 | 23.5
+125.46.57.82 | 9001 | tcp | [u'hn.kd.ny.adsl'] | [u'adsl.'] | China | Zhengzhou | 113.5325 | 34.6836
+1.202.242.118 | 3001 | tcp | [u'118.242.202.1.static.bjtelecom.net'] | [u'bjtelecom.net'] | China | Beijing | 116.3883 | 39.9289
+58.23.208.54 | 8081 | tcp | [] | [] | China | Quanzhou | 118.5858 | 24.9139
+41.32.79.244 | 9001 | tcp | [u'host-41.32.79.244.tedata.net'] | [u'tedata.net'] | Egypt | Nasr City | 31.3 | 30.0667
+122.115.51.156 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+86.96.196.49 | 9001 | tcp | [] | [] | United Arab Emirates | Dubai | 55.3081 | 25.2639
+219.142.62.204 | 8009 | tcp | [u'204.62.142.219.broad.bj.bj.dynamic.163data.com.cn'] | [u'163data.com.cn'] | China | Beijing | 116.3883 | 39.9289
+197.251.194.198 | 9001 | tcp | [] | [] | Ghana | Accra | -0.2167 | 5.55
+202.104.102.219 | 3001 | tcp | [] | [] | China | Guangzhou | 113.25 | 23.1167
+212.118.8.116 | 9002 | tcp | [u'212.118.8.116.ua.batelco.jo'] | [u'batelco.jo'] | Jordan | None | 36.0 | 31.0
+204.193.74.135 | 80 | tcp | [u'ePAEligibilitySvcQA.magellanhealth.com'] | [u'magellanhealth.com'] | United States | Saint Louis | -90.367 | 38.7012
+41.218.83.170 | 9001 | tcp | [] | [] | Zambia | None | 30.0 | -15.0
+62.13.0.69 | 80 | tcp | [u'businesscard-online.nordea.fi'] | [u'nordea.fi'] | Sweden | None | 18.056 | 59.3247
+81.19.243.105 | 9001 | tcp | [u'kruger.softbase.dk'] | [u'softbase.dk'] | Denmark | None | 12.0564 | 55.7123
+213.42.182.18 | 444 | tcp | [] | [] | United Arab Emirates | Abu Dhabi | 54.3667 | 24.4667
+219.147.3.202 | 8080 | tcp | [] | [] | China | Qingdao | 120.3719 | 36.0986
+81.19.243.106 | 9001 | tcp | [u'treasureisland.softbase.ch'] | [u'softbase.ch'] | Denmark | None | 12.0564 | 55.7123
+216.240.192.22 | 443 | tcp | [] | [] | Canada | Streetsville | -79.7611 | 43.5924
+183.90.160.23 | 9002 | tcp | [] | [] | Vietnam | Hanoi | 105.85 | 21.0333
+193.234.187.67 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+62.13.0.66 | 443 | tcp | [u'online.firstcard.fi'] | [u'firstcard.fi'] | Sweden | None | 18.056 | 59.3247
+100.35.244.174 | 8080 | tcp | [u'static-100-35-244-174.nwrknj.fios.verizon.net'] | [u'verizon.net'] | United States | None | -97.822 | 37.751
+222.168.67.37 | 9000 | tcp | [] | [] | China | Changchun | 125.3228 | 43.88
+195.145.108.169 | 443 | tcp | [] | [] | Germany | Straubing | 12.5797 | 48.8835
+27.17.54.138 | 3001 | tcp | [] | [] | China | Wuhan | 114.2734 | 30.5801
+14.204.76.4 | 7071 | tcp | [] | [] | China | Kunming | 102.7183 | 25.0389
+197.254.123.198 | 9002 | tcp | [u'mail.nabico.co.ke'] | [u'nabico.co.ke'] | Kenya | None | 38.0 | 1.0
+101.200.91.208 | 9002 | tcp | [] | [] | China | Hangzhou | 120.1614 | 30.2936
+60.190.86.246 | 80 | tcp | [] | [] | China | Wenzhou | 120.6668 | 27.9994
+5.235.234.176 | 9002 | tcp | [] | [] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+193.234.187.34 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+212.105.107.171 | 80 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+193.234.191.127 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+216.249.132.131 | 9002 | tcp | [] | [] | United States | Louisville | -85.7338 | 38.2148
+180.153.27.9 | 8081 | tcp | [] | [] | China | Shanghai | 121.3997 | 31.0456
+222.66.23.53 | 8008 | tcp | [] | [] | China | Shanghai | 121.3997 | 31.0456
+218.7.20.25 | 8081 | tcp | [] | [] | China | Harbin | 126.65 | 45.75
+123.151.202.83 | 80 | tcp | [] | [] | China | Tianjin | 117.1767 | 39.1422
+200.0.112.11 | 80 | tcp | [u'psnconacyt.iie.org.mx'] | [u'iie.org.mx'] | Mexico | Cuernavaca | -99.25 | 18.9167
+1.202.242.118 | 554 | tcp | [u'118.242.202.1.static.bjtelecom.net'] | [u'bjtelecom.net'] | China | Beijing | 116.3883 | 39.9289
+60.190.192.146 | 8001 | tcp | [] | [] | China | Hangzhou | 120.1614 | 30.2936
+110.159.74.136 | 8089 | tcp | [] | [] | Malaysia | Melaka | 102.2405 | 2.196
+203.69.3.132 | 80 | tcp | [u'203-69-3-132.HINET-IP.hinet.net'] | [u'hinet.net'] | Taiwan | None | 121.0 | 23.5
+221.224.88.155 | 5901 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+218.201.51.205 | 9001 | tcp | [] | [] | China | Chongqing | 106.5528 | 29.5628
+208.68.195.147 | 9001 | tcp | [] | [] | United States | Willoughby | -81.3787 | 41.6384
+121.240.97.34 | 9002 | tcp | [u'121.240.97.34.static-delhi.vsnl.net.in'] | [u'vsnl.net.in'] | India | Noida | 77.32 | 28.57
+62.13.0.122 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+193.234.187.69 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+195.202.71.118 | 9001 | tcp | [u'mail.blowplastkenya.com'] | [u'blowplastkenya.com'] | Kenya | None | 38.0 | 1.0
+65.167.208.116 | 443 | tcp | [] | [] | United States | None | -97.822 | 37.751
+38.103.153.220 | 80 | tcp | [] | [] | Canada | Montréal | -73.5386 | 45.5585
+193.234.187.78 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+41.86.153.3 | 9001 | tcp | [u'153.cobranet.org'] | [u'cobranet.org'] | Nigeria | Lagos | 3.3958 | 6.4531
+193.234.187.92 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+202.99.20.136 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+187.33.48.66 | 9001 | tcp | [u'nacionalap66.sea.gtitelecom.net.br'] | [u'gtitelecom.net.br'] | Brazil | Serra | -40.3 | -20.1167
+91.98.157.139 | 9002 | tcp | [u'91.98.157.139.pol.ir'] | [u'pol.ir'] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+221.224.88.155 | 3542 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+46.185.138.168 | 9001 | tcp | [] | [] | Jordan | None | 36.0 | 31.0
+217.23.34.94 | 9002 | tcp | [] | [] | Jordan | None | 36.0 | 31.0
+62.13.0.93 | 443 | tcp | [u'ekop.plusgirot.se'] | [u'plusgirot.se'] | Sweden | None | 18.056 | 59.3247
+144.140.53.110 | 80 | tcp | [] | [] | Australia | Melbourne | 144.9544 | -37.8103
+182.71.9.131 | 9001 | tcp | [u'nsg-static-131.9.71.182.airtel.in'] | [u'airtel.in'] | India | Dhar | 75.3 | 22.6
+103.254.84.181 | 9002 | tcp | [u'client-103-254-84-181.hrctech.net'] | [u'hrctech.net'] | Bangladesh | Dhaka | 90.364 | 23.8196
+61.140.4.80 | 8081 | tcp | [] | [] | China | Guangzhou | 113.25 | 23.1167
+107.23.128.60 | 80 | tcp | [u'ec2-107-23-128-60.compute-1.amazonaws.com'] | [u'amazonaws.com'] | United States | Ashburn | -77.4728 | 39.0481
+79.134.157.10 | 9002 | tcp | [u'gw10-157.jcsfiberlink.net'] | [u'jcsfiberlink.net'] | Jordan | Amman | 35.9333 | 31.95
+211.155.229.132 | 8181 | tcp | [u'a211-155-229-132.deploy.srt.cn'] | [u'srt.cn'] | China | Hangzhou | 120.1614 | 30.2936
+5.97.192.13 | 9002 | tcp | [u'host13-192-static.97-5-b.business.telecomitalia.it'] | [u'telecomitalia.it'] | Italy | Crotone | 17.1276 | 39.0808
+114.251.203.84 | 3790 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+62.13.0.141 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+58.56.128.28 | 8086 | tcp | [] | [] | China | Qingdao | 120.3719 | 36.0986
+221.224.88.155 | 8008 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+221.224.88.155 | 4782 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+204.232.226.44 | 80 | tcp | [] | [] | United States | San Antonio | -98.3987 | 29.4889
+195.154.181.22 | 465 | tcp | [u'mail.weblogic.gr'] | [u'weblogic.gr'] | France | None | 2.3387 | 48.8582
+52.174.26.153 | 9001 | tcp | [] | [] | Netherlands | Amsterdam | 4.9167 | 52.35
+218.25.251.10 | 80 | tcp | [] | [] | China | Shenyang | 123.4328 | 41.7922
+202.108.81.70 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+193.234.187.65 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+219.142.55.52 | 80 | tcp | [u'52.55.142.219.broad.bj.bj.dynamic.163data.com.cn'] | [u'163data.com.cn'] | China | Beijing | 116.3883 | 39.9289
+221.224.88.155 | 2480 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+220.85.46.52 | 9001 | tcp | [] | [] | Korea, Republic of | Seoul | 126.9743 | 37.5111
+41.38.151.107 | 9002 | tcp | [u'host-41.38.151.107.tedata.net'] | [u'tedata.net'] | Egypt | Cairo | 31.2859 | 30.0771
+218.213.87.67 | 9002 | tcp | [] | [] | Hong Kong | Kwai Chung | 114.1333 | 22.35
+46.152.114.107 | 9001 | tcp | [] | [] | Saudi Arabia | None | 45.0 | 25.0
+221.224.88.155 | 8069 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+202.218.127.68 | 443 | tcp | [u'prxy.it-ex.com'] | [u'it-ex.com'] | Japan | None | 139.69 | 35.69
+1.202.242.118 | 3790 | tcp | [u'118.242.202.1.static.bjtelecom.net'] | [u'bjtelecom.net'] | China | Beijing | 116.3883 | 39.9289
+221.224.88.155 | 6664 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+115.182.12.13 | 8081 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+112.215.62.152 | 443 | tcp | [] | [] | Indonesia | Bandung | 107.6186 | -6.9039
+129.89.70.98 | 8081 | tcp | [u'tws01.psoft.uwm.edu'] | [u'uwm.edu'] | United States | Milwaukee | -87.9065 | 43.0389
+125.16.63.57 | 443 | tcp | [] | [] | India | New Delhi | 77.2 | 28.6
+221.224.88.155 | 8001 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+198.204.184.13 | 443 | tcp | [u'dc2-bdt.efanniemae.com'] | [u'efanniemae.com'] | United States | Arlington | -77.113 | 38.8747
+46.185.163.3 | 9002 | tcp | [u'46.185.x.3.go.com.jo'] | [u'go.com.jo'] | Jordan | None | 36.0 | 31.0
+122.160.21.13 | 9001 | tcp | [u'abts-north-static-013.21.160.122.airtelbroadband.in'] | [u'airtelbroadband.in'] | India | New Delhi | 77.2 | 28.6
+103.225.40.14 | 9002 | tcp | [] | [] | India | Gurgaon | 77.0333 | 28.4667
+62.13.0.112 | 80 | tcp | [u'streamer.test.nordea.fi'] | [u'nordea.fi'] | Sweden | None | 18.056 | 59.3247
+222.240.30.77 | 9001 | tcp | [] | [] | China | Changsha | 113.1136 | 28.1792
+194.165.136.158 | 9002 | tcp | [] | [] | Jordan | None | 36.0 | 31.0
+91.98.88.13 | 8443 | tcp | [u'91.98.88.13.pol.ir'] | [u'pol.ir'] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+139.59.59.115 | 443 | tcp | [] | [] | India | Bangalore | 77.5833 | 12.9833
+203.88.202.161 | 20000 | tcp | [] | [] | China | Guangzhou | 113.25 | 23.1167
+60.190.208.50 | 8001 | tcp | [] | [] | China | Shaoxing | 120.5715 | 30.011
+193.234.187.57 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+82.204.185.38 | 9001 | tcp | [] | [] | Russian Federation | None | 37.6068 | 55.7386
+203.249.160.4 | 8009 | tcp | [] | [] | Korea, Republic of | Seoul | 126.9743 | 37.5111
+61.161.109.120 | 9001 | tcp | [] | [] | China | Chongqing | 106.5528 | 29.5628
+212.105.107.102 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+124.117.215.227 | 8181 | tcp | [] | [] | China | Ürümqi | 87.6005 | 43.801
+114.143.214.210 | 9002 | tcp | [] | [] | India | None | 77.0 | 20.0
+37.216.233.14 | 9001 | tcp | [u'mail.alsahliholding.com'] | [u'alsahliholding.com'] | Saudi Arabia | None | 45.0 | 25.0
+123.234.41.45 | 8086 | tcp | [] | [] | China | Jinan | 116.9972 | 36.6683
+79.129.123.88 | 1723 | tcp | [u'weblogic.static.otenet.gr'] | [u'otenet.gr'] | Greece | Néa Smírni | 23.7167 | 37.95
+211.147.149.35 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+193.234.187.23 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+116.52.13.37 | 8089 | tcp | [u'37.13.52.116.broad.km.yn.dynamic.163data.com.cn'] | [u'163data.com.cn'] | China | Kunming | 102.7183 | 25.0389
+187.33.48.66 | 9002 | tcp | [u'nacionalap66.sea.gtitelecom.net.br'] | [u'gtitelecom.net.br'] | Brazil | Serra | -40.3 | -20.1167
+210.242.65.44 | 9001 | tcp | [u'ip44.goldkey.com.tw'] | [u'goldkey.com.tw'] | Taiwan | None | 121.0 | 23.5
+61.66.209.190 | 80 | tcp | [u'61-66-209-190.askey.com.tw'] | [u'askey.com.tw'] | Taiwan | Taipei | 121.4966 | 25.0418
+218.242.36.204 | 8001 | tcp | [u'reserve.cableplus.com.cn'] | [u'cableplus.com.cn'] | China | Shanghai | 121.3997 | 31.0456
+193.234.187.72 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+58.177.137.76 | 80 | tcp | [u'058177137076.ctinets.com'] | [u'ctinets.com'] | Hong Kong | Central District | 114.15 | 22.291
+12.32.79.114 | 443 | tcp | [] | [] | United States | None | -97.822 | 37.751
+218.249.66.42 | 8081 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+210.179.230.88 | 443 | tcp | [] | [] | Korea, Republic of | None | 126.9741 | 37.5112
+196.28.57.80 | 443 | tcp | [u'196-28-57-80.prtc.net'] | [u'prtc.net'] | Puerto Rico | Arecibo | -66.7113 | 18.3994
+60.250.102.208 | 9002 | tcp | [u'60-250-102-208.HINET-IP.hinet.net'] | [u'hinet.net'] | Taiwan | None | 121.0 | 23.5
+193.234.191.65 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+200.12.171.133 | 443 | tcp | [] | [] | Chile | None | -70.6503 | -33.4378
+196.2.10.72 | 9002 | tcp | [] | [] | Burundi | None | 30.0 | -3.5
+91.98.132.254 | 9001 | tcp | [u'91.98.132.254.pol.ir'] | [u'pol.ir'] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+59.151.22.63 | 7071 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+202.218.127.68 | 80 | tcp | [u'prxy.it-ex.com'] | [u'it-ex.com'] | Japan | None | 139.69 | 35.69
+221.224.88.155 | 9200 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+223.72.163.45 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+101.227.254.22 | 80 | tcp | [] | [] | China | Shanghai | 121.3997 | 31.0456
+202.109.191.169 | 80 | tcp | [] | [] | China | Nanchang | 115.9333 | 28.55
+137.123.105.46 | 443 | tcp | [u'mrdapp.cortland.edu'] | [u'cortland.edu'] | United States | Cortland | -76.1926 | 42.6178
+23.253.7.195 | 9002 | tcp | [] | [] | United States | San Antonio | -98.3987 | 29.4889
+60.50.141.15 | 8089 | tcp | [u'15.141.50.60.jb02-home.tm.net.my'] | [u'tm.net.my'] | Malaysia | Puchong | 101.6167 | 3.0167
+210.241.238.246 | 9001 | tcp | [u'210-241-238-246.HINET-IP.hinet.net'] | [u'hinet.net'] | Taiwan | None | 121.0 | 23.5
+58.65.194.3 | 9001 | tcp | [] | [] | Pakistan | None | 70.0 | 30.0
+209.126.124.117 | 9001 | tcp | [u'condor2080.startdedicated.com'] | [u'startdedicated.com'] | United States | Saint Louis | -90.1922 | 38.6312
+195.154.181.22 | 110 | tcp | [u'mail.weblogic.gr'] | [u'weblogic.gr'] | France | None | 2.3387 | 48.8582
+189.204.115.121 | 8089 | tcp | [u'customer-mred-121.static.metrored.net.mx'] | [u'metrored.net.mx'] | Mexico | Mexico | -99.1386 | 19.4342
+46.235.95.54 | 9002 | tcp | [] | [] | Saudi Arabia | None | 45.0 | 25.0
+109.166.88.83 | 9002 | tcp | [] | [] | Saudi Arabia | Makkah | 39.8261 | 21.4267
+117.158.75.75 | 9001 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+221.224.88.155 | 51106 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+58.56.128.79 | 80 | tcp | [] | [] | China | Qingdao | 120.3719 | 36.0986
+190.111.9.19 | 80 | tcp | [] | [] | Guatemala | None | -91.3497 | 15.4731
+2.50.43.136 | 9002 | tcp | [u'bba308746.alshamil.net.ae'] | [u'alshamil.net.ae'] | United Arab Emirates | Dubai | 55.3081 | 25.2639
+200.94.19.90 | 443 | tcp | [u'static-200-94-19-90.alestra.net.mx'] | [u'alestra.net.mx'] | Mexico | Garza García | -100.4 | 25.6667
+221.224.88.155 | 9869 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+197.251.218.44 | 9001 | tcp | [] | [] | Ghana | Accra | -0.2167 | 5.55
+111.113.17.196 | 9001 | tcp | [] | [] | China | Yinchuan | 106.2731 | 38.4681
+221.224.88.155 | 81 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+67.107.122.149 | 80 | tcp | [u'www.telcelamerica.com'] | [u'telcelamerica.com'] | United States | Miami | -80.1826 | 25.7806
+202.173.38.48 | 443 | tcp | [] | [] | Taiwan | Taipei | 121.4966 | 25.0418
+203.101.168.77 | 9001 | tcp | [] | [] | Pakistan | None | 70.0 | 30.0
+59.120.44.198 | 9001 | tcp | [u'erp.quatek.com.tw'] | [u'quatek.com.tw'] | Taiwan | Taipei | 121.4966 | 25.0418
+41.189.170.186 | 9001 | tcp | [] | [] | Ghana | None | -2.0 | 8.0
+167.133.172.67 | 443 | tcp | [] | [] | United States | Bowie | -76.7901 | 38.9924
+216.27.90.66 | 443 | tcp | [] | [] | United States | Cary | -78.7789 | 35.7509
+211.98.16.22 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+197.251.218.43 | 9002 | tcp | [] | [] | Ghana | Accra | -0.2167 | 5.55
+212.88.125.72 | 9001 | tcp | [u'h1d48.n2.ips.mtn.co.ug'] | [u'mtn.co.ug'] | Uganda | None | 32.0 | 1.0
+210.210.35.126 | 9002 | tcp | [u'210-210-35-126.lan.sify.net'] | [u'sify.net'] | India | None | 77.0 | 20.0
+221.224.88.155 | 8888 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+200.69.213.11 | 443 | tcp | [u'alumnos.palermo.edu'] | [u'palermo.edu'] | Argentina | Buenos Aires | -58.3816 | -34.6033
+185.46.34.237 | 9002 | tcp | [] | [] | Croatia | Zagreb | 16.0 | 45.8
+110.79.8.162 | 9001 | tcp | [] | [] | Hong Kong | Kwai Chung | 114.1333 | 22.35
+198.138.69.22 | 80 | tcp | [] | [] | United States | Englewood | -104.8738 | 39.6237
+220.128.56.71 | 80 | tcp | [u'71-56-128-220.TWGATE-IP.twgate.net'] | [u'twgate.net'] | Taiwan | None | 121.0 | 23.5
+221.224.88.155 | 10000 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+207.249.144.116 | 8010 | tcp | [] | [] | Mexico | Tonalá | -103.1794 | 20.6281
+193.219.96.211 | 80 | tcp | [u'cli211.nvia.eu'] | [u'nvia.eu'] | Spain | None | -3.684 | 40.4172
+221.224.88.155 | 50070 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+185.161.112.242 | 49153 | tcp | [] | [] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+193.234.191.125 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+218.30.12.146 | 10000 | tcp | [] | [] | China | None | 113.7266 | 34.7725
+193.234.187.52 | 80 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+177.207.216.124 | 9002 | tcp | [u'vsrv-exchange.trei.com.br'] | [u'trei.com.br'] | Brazil | Gaspar | -48.9705 | -26.9225
+212.105.107.82 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+190.210.10.66 | 8081 | tcp | [u'customer-static-210-10-66.iplannetworks.net'] | [u'iplannetworks.net'] | Argentina | La Plata | -57.9489 | -34.9314
+202.162.29.199 | 5001 | tcp | [] | [] | Malaysia | Kuala Lumpur | 101.7 | 3.1667
+223.31.240.225 | 80 | tcp | [] | [] | India | None | 77.0 | 20.0
+196.218.93.243 | 9002 | tcp | [u'host-196.218.93.243-static.tedata.net'] | [u'tedata.net'] | Egypt | Cairo | 31.2859 | 30.0771
+153.18.96.208 | 443 | tcp | [] | [] | United States | Los Altos | -122.14 | 37.3622
+202.0.110.15 | 9002 | tcp | [] | [] | Pakistan | None | 70.0 | 30.0
+196.218.19.50 | 9001 | tcp | [u'host-196.218.19.50-static.tedata.net'] | [u'tedata.net'] | Egypt | Cairo | 31.2859 | 30.0771
+193.234.187.95 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+46.235.92.84 | 9002 | tcp | [] | [] | Saudi Arabia | None | 45.0 | 25.0
+204.16.77.18 | 80 | tcp | [] | [] | United States | Miami | -80.2348 | 25.853
+218.25.49.79 | 80 | tcp | [] | [] | China | Shenyang | 123.4328 | 41.7922
+124.205.57.10 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+91.98.88.13 | 8009 | tcp | [u'91.98.88.13.pol.ir'] | [u'pol.ir'] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+91.98.88.13 | 8140 | tcp | [u'91.98.88.13.pol.ir'] | [u'pol.ir'] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+182.74.55.243 | 9002 | tcp | [] | [] | India | None | 77.0 | 20.0
+59.60.49.227 | 8081 | tcp | [u'227.49.60.59.broad.qz.fj.dynamic.163data.com.cn'] | [u'163data.com.cn'] | China | Fuzhou | 119.3061 | 26.0614
+112.65.146.102 | 9001 | tcp | [] | [] | China | Shanghai | 121.3997 | 31.0456
+101.200.91.208 | 9001 | tcp | [] | [] | China | Hangzhou | 120.1614 | 30.2936
+52.200.236.140 | 443 | tcp | [u'ec2-52-200-236-140.compute-1.amazonaws.com'] | [u'amazonaws.com'] | United States | Ashburn | -77.4728 | 39.0481
+52.200.236.140 | 80 | tcp | [u'ec2-52-200-236-140.compute-1.amazonaws.com'] | [u'amazonaws.com'] | United States | Ashburn | -77.4728 | 39.0481
+221.224.88.155 | 23424 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+58.56.128.33 | 9009 | tcp | [] | [] | China | Qingdao | 120.3719 | 36.0986
+195.145.108.231 | 443 | tcp | [] | [] | Germany | Straubing | 12.5797 | 48.8835
+136.165.238.232 | 8081 | tcp | [u'fiuser1.louisville.edu'] | [u'louisville.edu'] | United States | Louisville | -85.6768 | 38.189
+221.224.88.155 | 5560 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+221.224.88.155 | 443 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+206.193.229.76 | 443 | tcp | [u'206.193.229.76.nauticom.net'] | [u'nauticom.net'] | United States | Coraopolis | -80.1842 | 40.4998
+195.175.52.82 | 9002 | tcp | [u'195.175.52.82.static.turktelekom.com.tr'] | [u'turktelekom.com.tr'] | Turkey | Turgutlu | 27.8167 | 38.5667
+65.167.208.125 | 80 | tcp | [] | [] | United States | None | -97.822 | 37.751
+220.249.98.100 | 8081 | tcp | [] | [] | China | Wuhan | 114.2734 | 30.5801
+41.139.182.134 | 9001 | tcp | [u'41-139-182-134.safaricombusiness.co.ke'] | [u'safaricombusiness.co.ke'] | Kenya | None | 38.0 | 1.0
+219.147.3.205 | 10000 | tcp | [] | [] | China | Qingdao | 120.3719 | 36.0986
+202.98.197.53 | 9001 | tcp | [] | [] | China | Guiyang | 106.7167 | 26.5833
+217.21.117.222 | 9002 | tcp | [] | [] | Kenya | Nairobi | 36.8167 | -1.2833
+61.186.242.82 | 9001 | tcp | [] | [] | China | Chongqing | 106.5528 | 29.5628
+211.20.70.194 | 9001 | tcp | [u'211-20-70-194.HINET-IP.hinet.net'] | [u'hinet.net'] | Taiwan | None | 121.0 | 23.5
+60.163.201.31 | 9001 | tcp | [u'31.201.163.60.broad.jx.zj.dynamic.163data.com.cn'] | [u'163data.com.cn'] | China | Tongxiang | 120.5608 | 30.6329
+41.216.164.154 | 9002 | tcp | [] | [] | Nigeria | Lagos | 3.3958 | 6.4531
+221.224.88.155 | 9595 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+147.83.194.228 | 9001 | tcp | [u'albarda.upc.edu'] | [u'upc.edu'] | Spain | Barcelona | 2.159 | 41.3888
+219.138.140.56 | 9000 | tcp | [] | [] | China | Wuhan | 114.2734 | 30.5801
+131.183.52.88 | 443 | tcp | [u'nsccprodpci-mc.utoledo.edu'] | [u'utoledo.edu'] | United States | Toledo | -83.6044 | 41.6733
+121.244.116.83 | 8081 | tcp | [u'121.244.116.83.static-Mumbai.vsnl.net.in'] | [u'vsnl.net.in'] | India | Gurgaon | 77.0333 | 28.4667
+1.202.242.118 | 4443 | tcp | [u'118.242.202.1.static.bjtelecom.net'] | [u'bjtelecom.net'] | China | Beijing | 116.3883 | 39.9289
+210.179.230.86 | 443 | tcp | [] | [] | Korea, Republic of | None | 126.9741 | 37.5112
+218.62.56.212 | 80 | tcp | [u'212.56.62.218.adsl-pool.jlccptt.net.cn'] | [u'jlccptt.net.cn'] | China | Changchun | 125.3228 | 43.88
+221.224.88.155 | 1471 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+58.56.128.33 | 9002 | tcp | [] | [] | China | Qingdao | 120.3719 | 36.0986
+221.2.232.178 | 9001 | tcp | [] | [] | China | Jinan | 116.9972 | 36.6683
+174.47.133.93 | 443 | tcp | [] | [] | United States | Houston | -95.488 | 30.005
+217.172.120.21 | 9001 | tcp | [] | [] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+182.93.77.108 | 9001 | tcp | [] | [] | Nepal | Kathmandu | 85.3167 | 27.7167
+61.155.108.212 | 80 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+124.205.109.53 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+193.234.187.84 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+58.17.243.131 | 7071 | tcp | [] | [] | China | Chongqing | 106.5528 | 29.5628
+221.224.88.155 | 7071 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+122.97.216.10 | 8081 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+94.74.129.172 | 9001 | tcp | [] | [] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+221.224.88.155 | 82 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+221.224.88.155 | 3780 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+221.224.88.155 | 4040 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+52.7.213.138 | 80 | tcp | [u'ec2-52-7-213-138.compute-1.amazonaws.com'] | [u'amazonaws.com'] | United States | Ashburn | -77.4728 | 39.0481
+212.107.127.69 | 9001 | tcp | [] | [] | Saudi Arabia | None | 45.0 | 25.0
+193.234.191.67 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+124.127.251.136 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+209.46.58.55 | 80 | tcp | [u'oostaging.spscommerce.net'] | [u'spscommerce.net'] | United States | Philadelphia | -75.1638 | 39.9523
+65.223.183.165 | 80 | tcp | [] | [] | United States | Cuba | -78.29 | 42.2241
+193.234.187.52 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+212.73.65.60 | 443 | tcp | [u'my.beeline.am'] | [u'beeline.am'] | Armenia | None | 45.0 | 40.0
+157.83.142.100 | 443 | tcp | [] | [] | United Kingdom | London | -0.0955 | 51.5092
+62.13.0.66 | 80 | tcp | [u'online.firstcard.fi'] | [u'firstcard.fi'] | Sweden | None | 18.056 | 59.3247
+200.12.171.134 | 443 | tcp | [] | [] | Chile | None | -70.6503 | -33.4378
+124.219.80.2 | 80 | tcp | [u'124-219-80-2.vdslpro.static.apol.com.tw'] | [u'apol.com.tw'] | Taiwan | Miaoli | 120.8219 | 24.5589
+189.254.19.9 | 80 | tcp | [u'customer-189-254-19-9-sta.uninet-ide.com.mx'] | [u'uninet-ide.com.mx'] | Mexico | Chalco De Díaz Covarrubias | -98.9 | 19.2667
+197.155.75.218 | 9001 | tcp | [u'197.155.75.218.liquidtelecom.net'] | [u'liquidtelecom.net'] | Mauritius | None | 57.55 | -20.2833
+120.32.124.5 | 7071 | tcp | [u'5.124.32.120.broad.fz.fj.dynamic.163data.com.cn'] | [u'163data.com.cn'] | China | Fuzhou | 119.3061 | 26.0614
+193.39.157.18 | 80 | tcp | [u'citydev-portal.edinburgh.gov.uk'] | [u'edinburgh.gov.uk'] | United Kingdom | Edinburgh | -3.2 | 55.95
+197.188.220.34 | 9002 | tcp | [u'ADSL-197-188-220-34.ipb.na'] | [u'ipb.na'] | Namibia | None | 17.0 | -22.0
+204.193.74.134 | 443 | tcp | [u'ePAIntegrationSvcQA.magellanhealth.com'] | [u'magellanhealth.com'] | United States | Saint Louis | -90.367 | 38.7012
+41.206.59.254 | 9002 | tcp | [] | [] | Kenya | None | 38.0 | 1.0
+65.74.187.236 | 80 | tcp | [u'distributor.instill.com'] | [u'instill.com'] | United States | Overland Park | -94.7052 | 38.8998
+197.157.16.30 | 9002 | tcp | [u'mail.graphicsystems-ea.com'] | [u'graphicsystems-ea.com'] | Uganda | None | 32.0 | 1.0
+91.98.88.13 | 49153 | tcp | [u'91.98.88.13.pol.ir'] | [u'pol.ir'] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+120.132.40.46 | 7071 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+54.84.91.66 | 443 | tcp | [u'ec2-54-84-91-66.compute-1.amazonaws.com'] | [u'amazonaws.com'] | United States | Ashburn | -77.4728 | 39.0481
+1.202.242.118 | 444 | tcp | [u'118.242.202.1.static.bjtelecom.net'] | [u'bjtelecom.net'] | China | Beijing | 116.3883 | 39.9289
+46.152.114.107 | 9002 | tcp | [] | [] | Saudi Arabia | None | 45.0 | 25.0
+136.247.52.88 | 443 | tcp | [u'nsccprodpci-hsc.utoledo.edu'] | [u'utoledo.edu'] | United States | Toledo | -83.6044 | 41.6733
+195.45.105.29 | 80 | tcp | [] | [] | Italy | Rome | 12.5149 | 41.9751
+210.177.25.173 | 80 | tcp | [] | [] | Hong Kong | Central District | 114.15 | 22.291
+185.33.156.9 | 443 | tcp | [u'mb.airbank.cz'] | [u'airbank.cz'] | Czech Republic | None | 14.4112 | 50.0848
+221.215.96.158 | 8086 | tcp | [] | [] | China | Jinan | 116.9972 | 36.6683
+94.76.107.115 | 27017 | tcp | [u'94.76.107.115.freenet.com.ua'] | [u'freenet.com.ua'] | Ukraine | Kiev | 30.5167 | 50.4333
+203.115.105.5 | 9001 | tcp | [] | [] | India | None | 77.0 | 20.0
+59.163.6.82 | 3001 | tcp | [u'59.163.6.82.static.vsnl.net.in'] | [u'vsnl.net.in'] | India | Mumbai | 72.8258 | 18.975
+92.253.120.29 | 9002 | tcp | [] | [] | Jordan | None | 36.0 | 31.0
+212.105.107.11 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+212.105.107.168 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+193.234.187.35 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+193.234.191.90 | 80 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+91.98.88.13 | 10554 | tcp | [u'91.98.88.13.pol.ir'] | [u'pol.ir'] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+125.209.110.245 | 9002 | tcp | [u'125-209-110-245.multi.net.pk'] | [u'multi.net.pk'] | Pakistan | None | 70.0 | 30.0
+14.21.16.249 | 3001 | tcp | [] | [] | China | Guangzhou | 113.25 | 23.1167
+79.134.142.233 | 9002 | tcp | [u'gw233-142.jcsfiberlink.net'] | [u'jcsfiberlink.net'] | Jordan | None | 36.0 | 31.0
+183.90.160.41 | 9002 | tcp | [] | [] | Vietnam | Hanoi | 105.85 | 21.0333
+193.234.187.94 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+62.13.0.116 | 443 | tcp | [u'totalin.plusgirot.se'] | [u'plusgirot.se'] | Sweden | None | 18.056 | 59.3247
+87.101.208.162 | 9001 | tcp | [] | [] | Saudi Arabia | None | 45.0 | 25.0
+1.202.242.118 | 8081 | tcp | [u'118.242.202.1.static.bjtelecom.net'] | [u'bjtelecom.net'] | China | Beijing | 116.3883 | 39.9289
+120.35.5.44 | 9002 | tcp | [] | [] | China | Fuzhou | 119.3061 | 26.0614
+193.234.187.56 | 80 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+115.239.116.40 | 9002 | tcp | [] | [] | China | Jiaxing | 120.75 | 30.7522
+180.169.113.228 | 8081 | tcp | [] | [] | China | Shanghai | 121.3997 | 31.0456
+62.13.0.68 | 443 | tcp | [u'www.firstcard.se'] | [u'firstcard.se'] | Sweden | None | 18.056 | 59.3247
+221.4.54.100 | 9001 | tcp | [] | [] | China | Guangzhou | 113.25 | 23.1167
+192.64.86.61 | 9001 | tcp | [u'synnae.cacopholy.net'] | [u'cacopholy.net'] | United States | Secaucus | -74.0633 | 40.7801
+218.25.251.53 | 80 | tcp | [] | [] | China | Shenyang | 123.4328 | 41.7922
+91.98.88.13 | 55443 | tcp | [u'91.98.88.13.pol.ir'] | [u'pol.ir'] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+67.107.122.136 | 80 | tcp | [u'www.tracfone.com'] | [u'tracfone.com'] | United States | Miami | -80.1826 | 25.7806
+203.91.44.113 | 9001 | tcp | [] | [] | China | Guangdong | 129.3364 | 42.7683
+218.6.14.107 | 9001 | tcp | [] | [] | China | Fuzhou | 119.3061 | 26.0614
+58.248.41.233 | 80 | tcp | [] | [] | China | Guangzhou | 113.25 | 23.1167
+109.92.130.130 | 9002 | tcp | [u'mail.darex.rs'] | [u'darex.rs'] | Serbia | None | 21.0 | 44.0
+218.58.70.207 | 443 | tcp | [] | [] | China | Jinan | 116.9972 | 36.6683
+221.224.88.155 | 5985 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+157.83.142.34 | 443 | tcp | [] | [] | United Kingdom | London | -0.0955 | 51.5092
+89.97.126.66 | 443 | tcp | [u'89-97-126-66.fweds-spc.it'] | [u'fweds-spc.it'] | Italy | Rome | 12.5113 | 41.8919
+111.205.94.45 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+170.98.106.149 | 9000 | tcp | [] | [] | United States | Pfafftown | -80.3784 | 36.1646
+91.98.88.13 | 3780 | tcp | [u'91.98.88.13.pol.ir'] | [u'pol.ir'] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+218.56.57.162 | 9000 | tcp | [] | [] | China | Jinan | 116.9972 | 36.6683
+89.97.126.7 | 443 | tcp | [u'89-97-126-7.fweds-spc.it'] | [u'fweds-spc.it'] | Italy | Rome | 12.5113 | 41.8919
+212.175.244.146 | 9001 | tcp | [u'static-146.turktrust.com.tr'] | [u'turktrust.com.tr'] | Turkey | None | 28.9948 | 41.0214
+210.83.216.71 | 8889 | tcp | [] | [] | China | Dalian | 121.6022 | 38.9122
+194.165.128.58 | 9002 | tcp | [u'mail.ataqadom.com.jo'] | [u'ataqadom.com.jo'] | Jordan | Amman | 35.9333 | 31.95
+62.13.0.143 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+101.230.218.71 | 9001 | tcp | [] | [] | China | Shanghai | 121.3997 | 31.0456
+123.234.41.45 | 8080 | tcp | [] | [] | China | Jinan | 116.9972 | 36.6683
+58.248.49.5 | 8889 | tcp | [] | [] | China | Guangzhou | 113.25 | 23.1167
+193.127.238.68 | 443 | tcp | [] | [] | United States | Boston | -71.0559 | 42.3159
+219.130.135.190 | 8081 | tcp | [] | [] | China | Guangzhou | 113.25 | 23.1167
+211.228.215.246 | 9002 | tcp | [] | [] | Korea, Republic of | None | 126.9741 | 37.5112
+60.2.94.253 | 2000 | tcp | [] | [] | China | Hebei | 115.275 | 39.8897
+202.149.227.158 | 443 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+91.98.88.13 | 9943 | tcp | [u'91.98.88.13.pol.ir'] | [u'pol.ir'] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+72.32.130.215 | 80 | tcp | [] | [] | United States | San Antonio | -98.3987 | 29.4889
+220.161.4.114 | 9001 | tcp | [] | [] | China | Fuzhou | 119.3061 | 26.0614
+221.224.88.155 | 8139 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+115.230.146.39 | 9001 | tcp | [] | [] | China | Jiaxing | 120.75 | 30.7522
+120.199.8.117 | 8086 | tcp | [] | [] | China | None | 113.7266 | 34.7725
+62.13.0.67 | 80 | tcp | [u'www.firstcard.no'] | [u'firstcard.no'] | Sweden | None | 18.056 | 59.3247
+41.202.231.166 | 9001 | tcp | [] | [] | Uganda | None | 32.0 | 1.0
+59.120.44.198 | 9002 | tcp | [u'erp.quatek.com.tw'] | [u'quatek.com.tw'] | Taiwan | Taipei | 121.4966 | 25.0418
+183.87.224.110 | 9002 | tcp | [u'host-224210.fivenetwork.com'] | [u'fivenetwork.com'] | India | Pune | 73.8667 | 18.5333
+220.85.46.54 | 8009 | tcp | [] | [] | Korea, Republic of | Seoul | 126.9743 | 37.5111
+219.147.3.200 | 9001 | tcp | [] | [] | China | Qingdao | 120.3719 | 36.0986
+221.224.88.155 | 9191 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+111.17.183.219 | 9000 | tcp | [] | [] | China | None | 120.3719 | 36.0986
+221.224.88.155 | 1400 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+60.190.86.243 | 8080 | tcp | [] | [] | China | Wenzhou | 120.6668 | 27.9994
+23.21.146.28 | 3001 | tcp | [u'ec2-23-21-146-28.compute-1.amazonaws.com'] | [u'amazonaws.com'] | United States | Ashburn | -77.4728 | 39.0481
+174.112.218.178 | 9001 | tcp | [u'CPEbc4dfbf6ad33-CMbc4dfbf6ad30.cpe.net.cable.rogers.com'] | [u'rogers.com'] | Canada | Mississauga | -79.7202 | 43.5637
+118.122.90.42 | 9002 | tcp | [] | [] | China | Chengdu | 104.0667 | 30.6667
+222.179.236.254 | 9001 | tcp | [] | [] | China | Chongqing | 106.5528 | 29.5628
+117.27.151.205 | 9002 | tcp | [] | [] | China | Fuzhou | 119.3061 | 26.0614
+221.224.88.155 | 8112 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+41.210.128.147 | 9001 | tcp | [u'h93.n1.ips.mtn.co.ug'] | [u'mtn.co.ug'] | Uganda | None | 32.0 | 1.0
+193.234.187.46 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+193.219.96.100 | 8800 | tcp | [u'cli100.nvia.eu'] | [u'nvia.eu'] | Spain | None | -3.684 | 40.4172
+202.97.179.124 | 8080 | tcp | [] | [] | China | Shenyang | 123.4328 | 41.7922
+113.105.17.19 | 7071 | tcp | [] | [] | China | Guangzhou | 113.25 | 23.1167
+66.76.203.138 | 443 | tcp | [u'66-76-203-138.suddenlink.net'] | [u'suddenlink.net'] | United States | None | -90.6666 | 38.5783
+201.144.11.237 | 9001 | tcp | [u'static.customer-201-144-11-237.uninet-ide.com.mx'] | [u'uninet-ide.com.mx'] | Mexico | None | -99.0111 | 19.4371
+200.23.149.53 | 9001 | tcp | [u'prod005ws02.tecvirtual.mx'] | [u'tecvirtual.mx'] | Mexico | Monterrey | -100.3167 | 25.6667
+195.229.61.222 | 9002 | tcp | [] | [] | United Arab Emirates | Sharjah | 55.4033 | 25.3573
+111.182.241.149 | 9000 | tcp | [] | [] | China | Wuhan | 114.2734 | 30.5801
+77.46.142.40 | 9001 | tcp | [u'mail.darex.rs'] | [u'darex.rs'] | Serbia | None | 21.0 | 44.0
+210.216.217.9 | 80 | tcp | [] | [] | Korea, Republic of | Daegu | 128.5911 | 35.8703
+123.173.127.97 | 8089 | tcp | [] | [] | China | Changchun | 125.3228 | 43.88
+219.143.234.245 | 443 | tcp | [u'245.234.143.219.broad.bj.bj.dynamic.163data.com.cn'] | [u'163data.com.cn'] | China | Beijing | 116.3883 | 39.9289
+218.242.181.82 | 80 | tcp | [u'reserve.cableplus.com.cn'] | [u'cableplus.com.cn'] | China | Shanghai | 121.3997 | 31.0456
+1.202.242.118 | 10554 | tcp | [u'118.242.202.1.static.bjtelecom.net'] | [u'bjtelecom.net'] | China | Beijing | 116.3883 | 39.9289
+200.57.90.53 | 80 | tcp | [u'ptr.kionetworks.com'] | [u'kionetworks.com'] | Mexico | Mexico | -99.1386 | 19.4342
+131.183.52.237 | 443 | tcp | [u'pci-mc.utoledo.edu'] | [u'utoledo.edu'] | United States | Toledo | -83.6044 | 41.6733
+125.93.58.62 | 9001 | tcp | [] | [] | China | Guangzhou | 113.25 | 23.1167
+200.57.90.48 | 80 | tcp | [u'ptr.kionetworks.com'] | [u'kionetworks.com'] | Mexico | Mexico | -99.1386 | 19.4342
+184.175.167.139 | 443 | tcp | [] | [] | United States | None | -87.6517 | 41.8483
+192.64.86.61 | 9002 | tcp | [u'synnae.cacopholy.net'] | [u'cacopholy.net'] | United States | Secaucus | -74.0633 | 40.7801
+62.13.0.119 | 80 | tcp | [u'foretagskort.internetbanken.foretag.nordea.se'] | [u'nordea.se'] | Sweden | None | 18.056 | 59.3247
+144.92.74.100 | 9001 | tcp | [u'ofr02.doit.wisc.edu'] | [u'wisc.edu'] | United States | Madison | -89.4012 | 43.0731
+52.0.161.35 | 80 | tcp | [u'ec2-52-0-161-35.compute-1.amazonaws.com'] | [u'amazonaws.com'] | United States | Ashburn | -77.4728 | 39.0481
+193.234.187.54 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+67.107.122.142 | 80 | tcp | [u'direct.tracfone.com'] | [u'tracfone.com'] | United States | Miami | -80.1826 | 25.7806
+211.144.122.242 | 8080 | tcp | [] | [] | China | Shanghai | 121.3997 | 31.0456
+195.29.217.195 | 9001 | tcp | [] | [] | Croatia | Zagreb | 16.0 | 45.8
+183.131.70.132 | 9001 | tcp | [] | [] | China | Jinhua | 119.6442 | 29.1068
+200.57.89.58 | 80 | tcp | [u'ptr.kionetworks.com'] | [u'kionetworks.com'] | Mexico | Mexico | -99.1386 | 19.4342
+77.74.64.13 | 80 | tcp | [u'mmsc.beeline.kz'] | [u'beeline.kz'] | Kazakhstan | None | 68.0 | 48.0
+89.239.10.114 | 9002 | tcp | [u'mail.soliter.cz'] | [u'soliter.cz'] | Czech Republic | Jablonec Nad Nisou | 15.1711 | 50.7205
+210.127.48.21 | 9001 | tcp | [] | [] | Korea, Republic of | None | 126.9741 | 37.5112
+200.57.95.77 | 80 | tcp | [u'ptr.kionetworks.com'] | [u'kionetworks.com'] | Mexico | Mexico | -99.1386 | 19.4342
+52.206.199.127 | 443 | tcp | [u'ec2-52-206-199-127.compute-1.amazonaws.com'] | [u'amazonaws.com'] | United States | Ashburn | -77.4728 | 39.0481
+219.232.105.170 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+183.90.160.41 | 9001 | tcp | [] | [] | Vietnam | Hanoi | 105.85 | 21.0333
+27.17.54.138 | 5001 | tcp | [] | [] | China | Wuhan | 114.2734 | 30.5801
+211.98.72.43 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+221.224.88.155 | 9981 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+202.108.124.231 | 8001 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+60.165.104.70 | 10000 | tcp | [u'70.104.165.60.dail.qy.gs.dynamic.163data.com.cn'] | [u'163data.com.cn'] | China | Lanzhou | 103.7922 | 36.0564
+195.45.130.83 | 80 | tcp | [] | [] | Italy | Rome | 12.4833 | 41.9
+195.154.181.22 | 995 | tcp | [u'mail.weblogic.gr'] | [u'weblogic.gr'] | France | None | 2.3387 | 48.8582
+91.98.88.13 | 444 | tcp | [u'91.98.88.13.pol.ir'] | [u'pol.ir'] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+197.251.218.40 | 9001 | tcp | [] | [] | Ghana | Accra | -0.2167 | 5.55
+123.252.194.234 | 9001 | tcp | [u'mail.dynamicprestress.com'] | [u'dynamicprestress.com'] | India | None | 77.0 | 20.0
+182.150.61.49 | 8081 | tcp | [] | [] | China | Chengdu | 104.0667 | 30.6667
+124.202.134.36 | 8081 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+140.120.49.172 | 9002 | tcp | [] | [] | Taiwan | None | 121.0 | 23.5
+180.153.29.37 | 8081 | tcp | [] | [] | China | Shanghai | 121.3997 | 31.0456
+202.61.40.195 | 9001 | tcp | [u'static-host202-61-40-195.link.net.pk'] | [u'link.net.pk'] | Pakistan | None | 70.0 | 30.0
+182.92.110.121 | 8081 | tcp | [] | [] | China | Hangzhou | 120.1614 | 30.2936
+109.92.130.130 | 9001 | tcp | [u'mail.darex.rs'] | [u'darex.rs'] | Serbia | None | 21.0 | 44.0
+60.190.195.51 | 8001 | tcp | [] | [] | China | Hangzhou | 120.1614 | 30.2936
+218.93.52.86 | 9001 | tcp | [] | [] | China | Changzhou | 119.9667 | 31.7833
+37.110.208.208 | 80 | tcp | [u'mms.beeline.uz'] | [u'beeline.uz'] | Uzbekistan | Tashkent | 69.25 | 41.3167
+200.94.154.183 | 8081 | tcp | [u'static-200-94-154-183.alestra.net.mx'] | [u'alestra.net.mx'] | Mexico | Garza García | -100.4 | 25.6667
+213.6.90.100 | 9002 | tcp | [] | [] | Palestinian Territory | Nablus | 35.2544 | 32.2211
+46.152.124.154 | 9002 | tcp | [] | [] | Saudi Arabia | None | 45.0 | 25.0
+114.251.203.84 | 8834 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+84.241.59.202 | 9002 | tcp | [u'84-241-59-202.shatel.ir'] | [u'shatel.ir'] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+203.36.207.157 | 8081 | tcp | [] | [] | Australia | South Melbourne | 144.9667 | -37.8333
+219.139.36.242 | 9001 | tcp | [] | [] | China | Yichang | 111.3215 | 30.7713
+62.13.0.150 | 80 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+153.18.96.209 | 443 | tcp | [] | [] | United States | Los Altos | -122.14 | 37.3622
+41.218.83.178 | 9002 | tcp | [] | [] | Zambia | None | 30.0 | -15.0
+62.13.0.125 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+204.193.74.134 | 80 | tcp | [u'ePAIntegrationSvcQA.magellanhealth.com'] | [u'magellanhealth.com'] | United States | Saint Louis | -90.367 | 38.7012
+1.202.242.118 | 8009 | tcp | [u'118.242.202.1.static.bjtelecom.net'] | [u'bjtelecom.net'] | China | Beijing | 116.3883 | 39.9289
+216.27.90.64 | 443 | tcp | [] | [] | United States | Cary | -78.7789 | 35.7509
+69.39.196.114 | 80 | tcp | [u'ets.massconnections.com'] | [u'massconnections.com'] | United States | Middletown | -71.2789 | 41.5171
+199.185.220.199 | 8089 | tcp | [u'cidcdns1.telus.net'] | [u'telus.net'] | Canada | Edmonton | -113.4974 | 53.5428
+211.75.122.67 | 80 | tcp | [u'211-75-122-67.HINET-IP.hinet.net'] | [u'hinet.net'] | Taiwan | None | 121.0 | 23.5
+221.224.88.155 | 3001 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+221.224.88.155 | 83 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+122.160.147.126 | 9002 | tcp | [u'abts-north-static-126.147.160.122.airtelbroadband.in'] | [u'airtelbroadband.in'] | India | Noida | 77.32 | 28.57
+221.224.88.155 | 32400 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+62.13.0.140 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+193.24.34.147 | 443 | tcp | [] | [] | Germany | None | 9.491 | 51.2993
+54.236.34.120 | 80 | tcp | [u'ec2-54-236-34-120.compute-1.amazonaws.com'] | [u'amazonaws.com'] | United States | Ashburn | -77.4728 | 39.0481
+114.251.203.84 | 55553 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+103.9.36.40 | 8081 | tcp | [] | [] | Indonesia | Jakarta | 106.8294 | -6.1744
+61.235.36.87 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+52.45.63.192 | 80 | tcp | [u'ec2-52-45-63-192.compute-1.amazonaws.com'] | [u'amazonaws.com'] | United States | Ashburn | -77.4728 | 39.0481
+62.13.0.124 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+123.233.247.119 | 9002 | tcp | [] | [] | China | Jinan | 116.9972 | 36.6683
+61.155.108.212 | 443 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+212.105.107.11 | 80 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+62.13.0.78 | 443 | tcp | [u'portal.nordeafinance.com'] | [u'nordeafinance.com'] | Sweden | None | 18.056 | 59.3247
+103.7.172.38 | 9001 | tcp | [u'qlns.mard.gov.vn'] | [u'mard.gov.vn'] | Vietnam | None | 106.0 | 16.0
+183.90.160.44 | 9002 | tcp | [] | [] | Vietnam | Hanoi | 105.85 | 21.0333
+180.173.15.140 | 9001 | tcp | [] | [] | China | Shanghai | 121.3997 | 31.0456
+193.234.187.88 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+216.27.90.68 | 80 | tcp | [] | [] | United States | Cary | -78.7789 | 35.7509
+221.224.88.155 | 49152 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+59.46.197.251 | 80 | tcp | [] | [] | China | Shenyang | 123.4328 | 41.7922
+114.251.203.84 | 8889 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+218.28.190.186 | 9001 | tcp | [u'pc0.zz.ha.cn'] | [u'zz.ha.cn'] | China | Zhengzhou | 113.5325 | 34.6836
+182.75.188.107 | 9001 | tcp | [u'nsg-static-107.188.75.182-airtel.com'] | [u'182-airtel.com'] | India | None | 77.0 | 20.0
+221.224.88.155 | 3000 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+195.178.38.14 | 80 | tcp | [] | [] | Serbia | None | 21.0 | 44.0
+111.67.205.5 | 80 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+82.212.87.77 | 9001 | tcp | [u'mail.sts-cloud.com'] | [u'sts-cloud.com'] | Jordan | None | 36.0 | 31.0
+91.98.88.13 | 9002 | tcp | [u'91.98.88.13.pol.ir'] | [u'pol.ir'] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+62.13.0.154 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+46.152.97.172 | 9002 | tcp | [] | [] | Saudi Arabia | None | 45.0 | 25.0
+46.20.168.212 | 9001 | tcp | [] | [] | France | None | 2.3387 | 48.8582
+66.203.100.138 | 443 | tcp | [] | [] | United States | Poway | -117.0232 | 32.9775
+60.2.94.253 | 9000 | tcp | [] | [] | China | Hebei | 115.275 | 39.8897
+183.90.160.48 | 9001 | tcp | [] | [] | Vietnam | Hanoi | 105.85 | 21.0333
+41.139.2.27 | 9002 | tcp | [u'mail3.ranamotors.com'] | [u'ranamotors.com'] | Ghana | None | -2.0 | 8.0
+193.234.187.67 | 80 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+202.218.127.54 | 80 | tcp | [u'vendor1.it-ex.com'] | [u'it-ex.com'] | Japan | None | 139.69 | 35.69
+114.99.173.115 | 10000 | tcp | [] | [] | China | Hefei | 117.2808 | 31.8639
+171.44.140.20 | 9000 | tcp | [] | [] | China | Wuhan | 114.2734 | 30.5801
+210.173.11.49 | 443 | tcp | [u'udgwtest.twx-21.com'] | [u'twx-21.com'] | Japan | None | 139.69 | 35.69
+196.28.57.80 | 80 | tcp | [u'196-28-57-80.prtc.net'] | [u'prtc.net'] | Puerto Rico | Arecibo | -66.7113 | 18.3994
+111.205.207.105 | 8081 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+204.16.77.10 | 80 | tcp | [] | [] | United States | Miami | -80.2348 | 25.853
+54.226.81.42 | 80 | tcp | [u'ec2-54-226-81-42.compute-1.amazonaws.com'] | [u'amazonaws.com'] | United States | Ashburn | -77.4728 | 39.0481
+77.246.34.226 | 443 | tcp | [] | [] | United Kingdom | None | -0.1224 | 51.4964
+204.136.96.249 | 443 | tcp | [u'sfodflws.pepsico.com'] | [u'pepsico.com'] | United States | Richardson | -96.7154 | 32.9513
+95.9.233.238 | 9002 | tcp | [u'95.9.233.238.dynamic.ttnet.com.tr'] | [u'ttnet.com.tr'] | Turkey | None | 28.9948 | 41.0214
+62.13.0.119 | 443 | tcp | [u'foretagskort.internetbanken.foretag.nordea.se'] | [u'nordea.se'] | Sweden | None | 18.056 | 59.3247
+221.224.88.155 | 4567 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+54.236.240.33 | 80 | tcp | [u'ec2-54-236-240-33.compute-1.amazonaws.com'] | [u'amazonaws.com'] | United States | Ashburn | -77.4728 | 39.0481
+193.234.187.116 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+209.50.138.66 | 8181 | tcp | [u'ws66.lccc.edu'] | [u'lccc.edu'] | United States | Schnecksville | -75.6208 | 40.6713
+62.13.0.68 | 80 | tcp | [u'www.firstcard.se'] | [u'firstcard.se'] | Sweden | None | 18.056 | 59.3247
+193.234.187.74 | 443 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+185.76.214.140 | 443 | tcp | [] | [] | Spain | None | -3.684 | 40.4172
+187.72.197.18 | 8181 | tcp | [u'187-072-197-018.static.ctbctelecom.com.br'] | [u'ctbctelecom.com.br'] | Brazil | Sao Luis | -44.2963 | -2.5325
+210.65.76.28 | 80 | tcp | [u'210-65-76-28.HINET-IP.hinet.net'] | [u'hinet.net'] | Taiwan | None | 121.0 | 23.5
+1.202.242.118 | 3780 | tcp | [u'118.242.202.1.static.bjtelecom.net'] | [u'bjtelecom.net'] | China | Beijing | 116.3883 | 39.9289
+195.128.128.85 | 9001 | tcp | [] | [] | Slovenia | None | 15.0 | 46.0
+63.115.54.150 | 443 | tcp | [] | [] | United States | None | -97.822 | 37.751
+58.56.128.33 | 9001 | tcp | [] | [] | China | Qingdao | 120.3719 | 36.0986
+221.224.88.155 | 5555 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+129.89.70.130 | 8081 | tcp | [u'tws02.psoft.uwm.edu'] | [u'uwm.edu'] | United States | Milwaukee | -87.9065 | 43.0389
+113.108.186.61 | 8081 | tcp | [] | [] | China | Guangzhou | 113.25 | 23.1167
+128.135.92.117 | 80 | tcp | [u'q300conference.bsd.uchicago.edu'] | [u'uchicago.edu'] | United States | Chicago | -87.6027 | 41.7804
+91.148.125.231 | 9001 | tcp | [] | [] | Serbia | None | 21.0 | 44.0
+221.224.88.155 | 4022 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+118.201.207.129 | 80 | tcp | [] | [] | Singapore | Singapore | 103.8565 | 1.2855
+123.126.34.170 | 9002 | tcp | [] | [] | China | Beijing | 116.3883 | 39.9289
+197.251.218.47 | 9002 | tcp | [] | [] | Ghana | Accra | -0.2167 | 5.55
+185.71.152.72 | 9001 | tcp | [] | [] | Iran, Islamic Republic of | None | 51.4231 | 35.6961
+46.152.124.70 | 9002 | tcp | [] | [] | Saudi Arabia | None | 45.0 | 25.0
+202.109.79.209 | 8001 | tcp | [] | [] | China | Shanghai | 121.3997 | 31.0456
+62.13.0.126 | 80 | tcp | [] | [] | Sweden | None | 18.056 | 59.3247
+221.224.88.155 | 7777 | tcp | [] | [] | China | Nanjing | 118.7778 | 32.0617
+218.104.135.77 | 9001 | tcp | [] | [] | China | Xiamen | 118.0819 | 24.4798
+64.132.112.77 | 7071 | tcp | [] | [] | United States | Charlotte | -80.9153 | 35.1681
+203.162.36.73 | 80 | tcp | [u'static.vnpt.vn'] | [u'vnpt.vn'] | Vietnam | Hanoi | 105.85 | 21.0333
+115.239.122.204 | 9002 | tcp | [] | [] | China | Jiaxing | 120.75 | 30.7522
+121.199.61.212 | 3001 | tcp | [] | [] | China | Hangzhou | 120.1614 | 30.2936
+164.106.248.252 | 443 | tcp | [u'fr6devlweb.vccs.edu'] | [u'vccs.edu'] | United States | Sterling | -77.3987 | 39.0138
+122.116.238.188 | 9001 | tcp | [u'122-116-238-188.HINET-IP.hinet.net'] | [u'hinet.net'] | Taiwan | None | 121.0 | 23.5
+183.234.62.85 | 10000 | tcp | [] | [] | China | Guangzhou | 113.25 | 23.1167
+52.0.180.183 | 443 | tcp | [u'ec2-52-0-180-183.compute-1.amazonaws.com'] | [u'amazonaws.com'] | United States | Ashburn | -77.4728 | 39.0481
+52.0.180.183 | 80 | tcp | [u'ec2-52-0-180-183.compute-1.amazonaws.com'] | [u'amazonaws.com'] | United States | Ashburn | -77.4728 | 39.0481
+200.155.189.116 | 9001 | tcp | [u'smtp.linx.com.br'] | [u'linx.com.br'] | Brazil | Sao Paulo | -46.6417 | -23.5733
+116.52.13.37 | 8081 | tcp | [u'37.13.52.116.broad.km.yn.dynamic.163data.com.cn'] | [u'163data.com.cn'] | China | Kunming | 102.7183 | 25.0389
+4.34.113.76 | 443 | tcp | [] | [] | United States | Chicago | -87.6517 | 41.8483
