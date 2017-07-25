@@ -23,7 +23,7 @@ Running this script is very ease, the following is the example.</br>
 ### Sample
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</br>
 please input search query : weblogic            
-please input file name to save data : weblogic 
+please input file name to save data : weblogic </br>
 Total results 1203 , pages : 13 </br>
 page 1 ... left: 12 time: 30s </br>
 page 2 ... left: 11 time: 53s </br>
