@@ -12,8 +12,9 @@ import json
 import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
+
 # Configuration
-SHODAN_API_KEY = "P4lLw6oMythJiajvVNeMQb83hRBtv24C"
+SHODAN_API_KEY = "YOUR_API_KEY"
 api = shodan.Shodan(SHODAN_API_KEY)
 
 
@@ -43,7 +44,7 @@ def getShodan():
     num = total / 100 + 1                   # 总的循环次数
 
     print 'Total results %d , pages : %d' % (total, num)
-    file1 = filename + '.txt'                  # 构造文件名,保存搜索结果
+    file1 = filename + '.txt'               # 构造文件名,保存搜索结果
     file2 = filename + '-full.txt'
     file3 = filename + '-all.txt'
     fp1 = open(file1, 'w+')                 # 打开文件
@@ -59,6 +60,7 @@ def getShodan():
                 # fp1.write(result['ip_str'] + ':' + str(result['port']) + '\n')
                 # *.txt只保存ip & port
                 fp1.write(result['ip_str'] + ' | ' + str(result['port']) + '\n')
+
                 # *.full 保存更多比较重要的内容,如:主机名、域名、国家、城市、经度、维度
                 fp2.write(result['ip_str'] + ' | ' + str(result['port']) + ' | ' + result['transport'] + ' | ' +
                           str(result['hostnames']) + ' | ' + str(result['domains']) + ' | ' +
@@ -66,7 +68,8 @@ def getShodan():
                           str(result['location']['city']) + ' | ' +
                           str(result['location']['longitude']) + ' | ' +
                           str(result['location']['latitude']) + '\n')
-                # data保存能从shodan获取的最多的数据,某些字段无法获取
+
+                # data尽可能保存从shodan获取的数据,某些字段无法获取
                 data = {
                     # "asn": result['asn'],
                     # "ip": result['ip'],
@@ -112,10 +115,12 @@ def getShodan():
     # 输出程序运行时间,并关闭相关的文件
     endtime = time.time()
     print 'program time consuming : %s s' % show_time(int(endtime - starttime))
-    fp1.close()
+    fp1.close()             # 关闭文件
     fp2.close()
     fp3.close()
 
+
+# main函数
 if __name__ == '__main__':
     getShodan()
 
